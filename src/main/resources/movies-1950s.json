@@ -1,0 +1,1403 @@
+[
+  {
+    "title": "All About Eve",
+    "year": 1950,
+    "director": "Joseph L. Mankiewicz",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders"
+    ],
+    "oscars_nominated": 14,
+    "oscars_won": 6,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay",
+      "Best Costume Design, Black-and-White",
+      "Best Sound, Recording"
+    ],
+    "description": "A seemingly timid but secretly manipulative ingenue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "afi_ranking": 16,
+    "imdb_url": "https://www.imdb.com/title/tt0042192/"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "director": "Billy Wilder",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay",
+      "Best Art Direction-Set Decoration, Black-and-White",
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "A struggling screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "afi_ranking": 12,
+    "imdb_url": "https://www.imdb.com/title/tt0043014/"
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "director": "Akira Kurosawa",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Toshiro Mifune",
+      "Machiko Kyô",
+      "Masayuki Mori"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Honorary Foreign Language Film Award"
+    ],
+    "description": "The rape of a bride and the murder of her samurai husband are recounted from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0042876/"
+  },
+  {
+    "title": "The Asphalt Jungle",
+    "year": 1950,
+    "director": "John Huston",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "actors": [
+      "Sterling Hayden",
+      "Louis Calhern",
+      "Jean Hagen"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A major jewelry heist goes awry in a Midwestern city, as the criminals involved are double-crossed and turn on each other.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0042208/"
+  },
+  {
+    "title": "Harvey",
+    "year": 1950,
+    "director": "Henry Koster",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "James Stewart",
+      "Josephine Hull",
+      "Peggy Dow"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress"
+    ],
+    "description": "A whimsical man is committed to a sanitarium after his sister and niece grow tired of his insistence that he has an invisible six-foot-tall rabbit for a best friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0042546/"
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "year": 1951,
+    "director": "Elia Kazan",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Vivien Leigh",
+      "Marlon Brando",
+      "Kim Hunter"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Supporting Actor",
+      "Best Supporting Actress",
+      "Best Art Direction-Set Decoration, Black-and-White"
+    ],
+    "description": "Disturbed former schoolteacher Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+    "afi_ranking": 45,
+    "imdb_url": "https://www.imdb.com/title/tt0044081/"
+  },
+  {
+    "title": "The African Queen",
+    "year": 1951,
+    "director": "John Huston",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Katharine Hepburn",
+      "Robert Morley"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "In Africa during WWI, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
+    "afi_ranking": 17,
+    "imdb_url": "https://www.imdb.com/title/tt0043265/"
+  },
+  {
+    "title": "An American in Paris",
+    "year": 1951,
+    "director": "Vincente Minnelli",
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Gene Kelly",
+      "Leslie Caron",
+      "Oscar Levant"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 6,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Story and Screenplay",
+      "Best Cinematography, Color",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design, Color",
+      "Best Music, Scoring of a Musical Picture"
+    ],
+    "description": "An American expatriate painter finds success in Paris and falls for a beautiful French girl, who is engaged to a cabaret singer.",
+    "afi_ranking": 68,
+    "imdb_url": "https://www.imdb.com/title/tt0043278/"
+  },
+  {
+    "title": "Strangers on a Train",
+    "year": 1951,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "actors": [
+      "Farley Granger",
+      "Robert Walker",
+      "Ruth Roman"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A psychopathic man tries to pressure a tennis star into a murder-for-murder pact.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044079/"
+  },
+  {
+    "title": "The Day the Earth Stood Still",
+    "year": 1951,
+    "director": "Robert Wise",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Michael Rennie",
+      "Patricia Neal",
+      "Hugh Marlowe"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
+    "afi_ranking": 82,
+    "imdb_url": "https://www.imdb.com/title/tt0043456/"
+  },
+  {
+    "title": "The Thing from Another World",
+    "year": 1951,
+    "director": "Christian Nyby",
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Margaret Sheridan",
+      "Kenneth Tobey",
+      "Robert Cornthwaite"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Scientists at an Arctic research station discover a spacecraft buried in the ice and a hostile alien creature frozen within.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044121/"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "director": "Stanley Donen",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A silent film production company and cast make a difficult transition to sound.",
+    "afi_ranking": 5,
+    "imdb_url": "https://www.imdb.com/title/tt0045152/"
+  },
+  {
+    "title": "High Noon",
+    "year": 1952,
+    "director": "Fred Zinnemann",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "actors": [
+      "Gary Cooper",
+      "Grace Kelly",
+      "Thomas Mitchell"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Film Editing",
+      "Best Music, Original Song",
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "A town marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at high noon when the gang leader is released from prison.",
+    "afi_ranking": 27,
+    "imdb_url": "https://www.imdb.com/title/tt0044706/"
+  },
+  {
+    "title": "Ikiru",
+    "year": 1952,
+    "director": "Akira Kurosawa",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Takashi Shimura",
+      "Nobuo Kaneko",
+      "Shin'ichi Himori"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044741/"
+  },
+  {
+    "title": "The Greatest Show on Earth",
+    "year": 1952,
+    "director": "Cecil B. DeMille",
+    "ratings": {
+      "imdb": "6.6/10",
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      "James Stewart",
+      "Charlton Heston",
+      "Betty Hutton"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Motion Picture Story"
+    ],
+    "description": "The dramatic lives of trapeze artists, a clown, and an elephant trainer are told against a background of circus spectacle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044672/"
+  },
+  {
+    "title": "From Here to Eternity",
+    "year": 1953,
+    "director": "Fred Zinnemann",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      "Burt Lancaster",
+      "Montgomery Clift",
+      "Deborah Kerr"
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Supporting Actress",
+      "Best Writing, Screenplay",
+      "Best Cinematography, Black-and-White",
+      "Best Sound, Recording",
+      "Best Film Editing"
+    ],
+    "description": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second-in-command are falling in love.",
+    "afi_ranking": 52,
+    "imdb_url": "https://www.imdb.com/title/tt0045793/"
+  },
+  {
+    "title": "Shane",
+    "year": 1953,
+    "director": "George Stevens",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Alan Ladd",
+      "Jean Arthur",
+      "Van Heflin"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography, Color"
+    ],
+    "description": "A weary gunfighter attempts to settle down with a homesteading family, but a smoldering range war forces him to act.",
+    "afi_ranking": 45,
+    "imdb_url": "https://www.imdb.com/title/tt0046303/"
+  },
+  {
+    "title": "Roman Holiday",
+    "year": 1953,
+    "director": "William Wyler",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Gregory Peck",
+      "Audrey Hepburn",
+      "Eddie Albert"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Writing, Motion Picture Story",
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046250/"
+  },
+  {
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "director": "Henri-Georges Clouzot",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Yves Montand",
+      "Charles Vanel",
+      "Folco Lulli"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046268/"
+  },
+  {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "director": "Yasujirô Ozu",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Chishû Ryû",
+      "Chieko Higashiyama",
+      "Sô Yamamura"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An old couple visit their children and grandchildren in the city, but the children have little time for them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046438/"
+  },
+  {
+    "title": "On the Waterfront",
+    "year": 1954,
+    "director": "Elia Kazan",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Lee J. Cobb"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Supporting Actress",
+      "Best Writing, Story and Screenplay",
+      "Best Cinematography, Black-and-White",
+      "Best Art Direction-Set Decoration, Black-and-White",
+      "Best Film Editing"
+    ],
+    "description": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+    "afi_ranking": 8,
+    "imdb_url": "https://www.imdb.com/title/tt0047296/"
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window and becomes convinced one of them has committed murder.",
+    "afi_ranking": 42,
+    "imdb_url": "https://www.imdb.com/title/tt0047396/"
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "director": "Akira Kurosawa",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      "Toshiro Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047478/"
+  },
+  {
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former tennis star plots the murder of his own wife after discovering she is having an affair, but his perfect crime goes awry.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046912/"
+  },
+  {
+    "title": "A Star Is Born",
+    "year": 1954,
+    "director": "George Cukor",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Judy Garland",
+      "James Mason",
+      "Jack Carson"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A film star helps a young singer and actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+    "afi_ranking": 43,
+    "imdb_url": "https://www.imdb.com/title/tt0047522/"
+  },
+  {
+    "title": "Rebel Without a Cause",
+    "year": 1955,
+    "director": "Nicholas Ray",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "James Dean",
+      "Natalie Wood",
+      "Sal Mineo"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+    "afi_ranking": 59,
+    "imdb_url": "https://www.imdb.com/title/tt0048545/"
+  },
+  {
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "director": "Charles Laughton",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Robert Mitchum",
+      "Shelley Winters",
+      "Lillian Gish"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.",
+    "afi_ranking": 34,
+    "imdb_url": "https://www.imdb.com/title/tt0048424/"
+  },
+  {
+    "title": "Marty",
+    "year": 1955,
+    "director": "Delbert Mann",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Ernest Borgnine",
+      "Betsy Blair",
+      "Esther Minciotti"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay"
+    ],
+    "description": "A middle-aged butcher from the Bronx and a lonely school teacher meet at a dance and unexpectedly fall in love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048356/"
+  },
+  {
+    "title": "Lady and the Tramp",
+    "year": 1955,
+    "director": "Clyde Geronimi",
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Barbara Luddy",
+      "Larry Roberts",
+      "Peggy Lee"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
+    "afi_ranking": 95,
+    "imdb_url": "https://www.imdb.com/title/tt0048280/"
+  },
+  {
+    "title": "Pather Panchali",
+    "year": 1955,
+    "director": "Satyajit Ray",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Kanu Bannerjee",
+      "Karuna Bannerjee",
+      "Subir Banerjee"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life of a young boy named Apu and his impoverished family in rural Bengal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048473/"
+  },
+  {
+    "title": "The Searchers",
+    "year": 1956,
+    "director": "John Ford",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "John Wayne",
+      "Jeffrey Hunter",
+      "Vera Miles"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid.",
+    "afi_ranking": 12,
+    "imdb_url": "https://www.imdb.com/title/tt0049730/"
+  },
+  {
+    "title": "The Ten Commandments",
+    "year": 1956,
+    "director": "Cecil B. DeMille",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Yul Brynner",
+      "Anne Baxter"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Special Effects"
+    ],
+    "description": "The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.",
+    "afi_ranking": 79,
+    "imdb_url": "https://www.imdb.com/title/tt0049833/"
+  },
+  {
+    "title": "Giant",
+    "year": 1956,
+    "director": "George Stevens",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Elizabeth Taylor",
+      "Rock Hudson",
+      "James Dean"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Director"
+    ],
+    "description": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+    "afi_ranking": 82,
+    "imdb_url": "https://www.imdb.com/title/tt0049261/"
+  },
+  {
+    "title": "Invasion of the Body Snatchers",
+    "year": 1956,
+    "director": "Don Siegel",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Kevin McCarthy",
+      "Dana Wynter",
+      "Larry Gates"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049366/"
+  },
+  {
+    "title": "Forbidden Planet",
+    "year": 1956,
+    "director": "Fred M. Wilcox",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Walter Pidgeon",
+      "Anne Francis",
+      "Leslie Nielsen"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A starship crew travels to a distant planet to investigate the fate of an earlier expedition, only to find a mysterious and powerful force at play.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049223/"
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "ratings": {
+      "imdb": "9.0/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "afi_ranking": 87,
+    "imdb_url": "https://www.imdb.com/title/tt0050083/"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "director": "David Lean",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Film Editing",
+      "Best Music, Scoring"
+    ],
+    "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are plotting a daring mission to destroy it.",
+    "afi_ranking": 13,
+    "imdb_url": "https://www.imdb.com/title/tt0050212/"
+  },
+  {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "director": "Stanley Kubrick",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050825/"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "director": "Billy Wilder",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Charles Laughton"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A veteran British barrister must defend a man in a murder trial that has surprise after surprise.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051201/"
+  },
+  {
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050976/"
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "actors": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+    "afi_ranking": 9,
+    "imdb_url": "https://www.imdb.com/title/tt0052357/"
+  },
+  {
+    "title": "Touch of Evil",
+    "year": 1958,
+    "director": "Orson Welles",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Janet Leigh",
+      "Orson Welles"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
+    "afi_ranking": 64,
+    "imdb_url": "https://www.imdb.com/title/tt0052311/"
+  },
+  {
+    "title": "Gigi",
+    "year": 1958,
+    "director": "Vincente Minnelli",
+    "ratings": {
+      "imdb": "6.6/10",
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Leslie Caron",
+      "Maurice Chevalier",
+      "Louis Jourdan"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 9,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography, Color",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design",
+      "Best Film Editing",
+      "Best Music, Original Song",
+      "Best Music, Scoring of a Musical Picture"
+    ],
+    "description": "A Parisian courtesan in training is pursued by a wealthy playboy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051658/"
+  },
+  {
+    "title": "Cat on a Hot Tin Roof",
+    "year": 1958,
+    "director": "Richard Brooks",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Elizabeth Taylor",
+      "Paul Newman",
+      "Burl Ives"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Southern family celebrates the sixty-fifth birthday of their patriarch, who is unaware that he is dying of cancer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051459/"
+  },
+  {
+    "title": "The Defiant Ones",
+    "year": 1958,
+    "director": "Stanley Kramer",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Tony Curtis",
+      "Sidney Poitier",
+      "Theodore Bikel"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "Best Cinematography, Black-and-White"
+    ],
+    "description": "Two escaped convicts, one white and one black, chained together, must learn to cooperate in order to elude capture.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051525/"
+  },
+  {
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "director": "Billy Wilder",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "afi_ranking": 14,
+    "imdb_url": "https://www.imdb.com/title/tt0053291/"
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "actors": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and is pursued across the country by them and the police.",
+    "afi_ranking": 40,
+    "imdb_url": "https://www.imdb.com/title/tt0053125/"
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 1959,
+    "director": "William Wyler",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Jack Hawkins",
+      "Haya Harareet"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 11,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Supporting Actor",
+      "Best Cinematography, Color",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design, Color",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Effects, Special Effects",
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "When a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+    "afi_ranking": 72,
+    "imdb_url": "https://www.imdb.com/title/tt0052618/"
+  },
+  {
+    "title": "Anatomy of a Murder",
+    "year": 1959,
+    "director": "Otto Preminger",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "James Stewart",
+      "Lee Remick",
+      "Ben Gazzara"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity induced by the rape of his wife. What is the truth, and will he win his case?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052561/"
+  },
+  {
+    "title": "The 400 Blows",
+    "year": 1959,
+    "director": "François Truffaut",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Jean-Pierre Léaud",
+      "Albert Rémy",
+      "Claire Maurier"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy, left without attention, delves into a life of petty crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053198/"
+  },
+  {
+    "title": "Sleeping Beauty",
+    "year": 1959,
+    "director": "Clyde Geronimi",
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mary Costa",
+      "Bill Shirley",
+      "Eleanor Audley"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After being snubbed by the royal family, a malevolent fairy curses the infant Princess Aurora, decreeing that she will die on her 16th birthday.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053285/"
+  }
+]

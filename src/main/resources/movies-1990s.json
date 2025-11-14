@@ -1,0 +1,1318 @@
+[
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "ratings": {
+      "imdb": "8.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "afi_ranking": 92,
+    "imdb_url": "https://www.imdb.com/title/tt0099685/"
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "director": "Kevin Costner",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Kevin Costner",
+      "Mary McDonnell",
+      "Graham Greene"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Score"
+    ],
+    "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+    "afi_ranking": 75,
+    "imdb_url": "https://www.imdb.com/title/tt0099348/"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Actress",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "afi_ranking": 65,
+    "imdb_url": "https://www.imdb.com/title/tt0102926/"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "director": "James Cameron",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Makeup",
+      "Best Sound Effects Editing",
+      "Best Visual Effects"
+    ],
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103064/"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "director": "Gary Trousdale",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Jesse Corti"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Score",
+      "Best Music, Original Song"
+    ],
+    "description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101414/"
+  },
+  {
+    "title": "JFK",
+    "year": 1991,
+    "director": "Oliver Stone",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "actors": [
+      "Kevin Costner",
+      "Gary Oldman",
+      "Jack Lemmon"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Film Editing"
+    ],
+    "description": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102138/"
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "director": "Clint Eastwood",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Film Editing"
+    ],
+    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The 'Schofield Kid.'",
+    "afi_ranking": 68,
+    "imdb_url": "https://www.imdb.com/title/tt0105695/"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105236/"
+  },
+  {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "director": "Rob Reiner",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Jack Nicholson",
+      "Demi Moore"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104257/"
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "director": "Ron Clements",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Score",
+      "Best Music, Original Song"
+    ],
+    "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103639/"
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "director": "Martin Brest",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Chris O'Donnell",
+      "James Rebhorn"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "A prep school student needing money agrees to 'babysit' a blind man, but the job is not at all what he anticipated.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105323/"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "9.0/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Film Editing",
+      "Best Music, Original Score"
+    ],
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "afi_ranking": 8,
+    "imdb_url": "https://www.imdb.com/title/tt0108052/"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Sound Effects Editing",
+      "Best Visual Effects"
+    ],
+    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107290/"
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "director": "Harold Ramis",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107048/"
+  },
+  {
+    "title": "Philadelphia",
+    "year": 1993,
+    "director": "Jonathan Demme",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Roberta Maxwell"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Music, Original Song"
+    ],
+    "description": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107818/"
+  },
+  {
+    "title": "The Piano",
+    "year": 1993,
+    "director": "Jane Campion",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      "Holly Hunter",
+      "Harvey Keitel",
+      "Sam Neill"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Supporting Actress",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "In the mid-19th century, a mute woman is sent to New Zealand for an arranged marriage and finds solace in playing the piano, while developing a complex relationship with a local man.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107822/"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "ratings": {
+      "imdb": "9.3/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "98%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+    "afi_ranking": 72,
+    "imdb_url": "https://www.imdb.com/title/tt0111161/"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "ratings": {
+      "imdb": "8.9/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "afi_ranking": 94,
+    "imdb_url": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "ratings": {
+      "imdb": "8.8/10",
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 6,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "Best Film Editing",
+      "Best Effects, Visual Effects"
+    ],
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "afi_ranking": 76,
+    "imdb_url": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Roger Allers",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Score",
+      "Best Music, Original Song"
+    ],
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110357/"
+  },
+  {
+    "title": "Four Weddings and a Funeral",
+    "year": 1994,
+    "director": "Mike Newell",
+    "ratings": {
+      "imdb": "7.0/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Hugh Grant",
+      "Andie MacDowell",
+      "James Fleet"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109831/"
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "director": "Mel Gibson",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Cinematography",
+      "Best Makeup",
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112573/"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "director": "John Lasseter",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Special Achievement Award"
+    ],
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "afi_ranking": 99,
+    "imdb_url": "https://www.imdb.com/title/tt0114709/"
+  },
+  {
+    "title": "Seven",
+    "year": 1995,
+    "director": "David Fincher",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114369/"
+  },
+  {
+    "title": "Apollo 13",
+    "year": 1995,
+    "director": "Ron Howard",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Bill Paxton",
+      "Kevin Bacon"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the three astronauts on board in jeopardy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112384/"
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "director": "Bryan Singer",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114814/"
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "director": "Joel Coen",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "William H. Macy",
+      "Frances McDormand",
+      "Steve Buscemi"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the jovial Marge Gunderson.",
+    "afi_ranking": 84,
+    "imdb_url": "https://www.imdb.com/title/tt0116282/"
+  },
+  {
+    "title": "The English Patient",
+    "year": 1996,
+    "director": "Anthony Minghella",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "Juliette Binoche",
+      "Willem Dafoe"
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 9,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actress in a Supporting Role",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Dramatic Score"
+    ],
+    "description": "At the close of World War II, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0116209/"
+  },
+  {
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "director": "Cameron Crowe",
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Cuba Gooding Jr.",
+      "Renée Zellweger"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0116695/"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "oscars_nominated": 14,
+    "oscars_won": 11,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Effects, Sound Effects Editing",
+      "Best Effects, Visual Effects",
+      "Best Music, Original Dramatic Score",
+      "Best Music, Original Song"
+    ],
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "afi_ranking": 37,
+    "imdb_url": "https://www.imdb.com/title/tt0120338/"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "director": "Gus Van Sant",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Robin Williams",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119217/"
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "director": "Curtis Hanson",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actress",
+      "Best Writing, Screenplay Based on Material Previously Produced or Published"
+    ],
+    "description": "As corruption grows in 1950s Los Angeles, three policemen - one straight-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119488/"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "director": "Roberto Benigni",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role",
+      "Best Foreign Language Film",
+      "Best Music, Original Dramatic Score"
+    ],
+    "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118799/"
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Yôji Matsuda",
+      "Yuriko Ishida",
+      "Yûko Tanaka"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119698/"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Director",
+      "Best Cinematography",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "afi_ranking": 71,
+    "imdb_url": "https://www.imdb.com/title/tt0120815/"
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "director": "Tony Kaye",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120586/"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Joel Coen",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118715/"
+  },
+  {
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "director": "John Madden",
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Gwyneth Paltrow",
+      "Joseph Fiennes",
+      "Geoffrey Rush"
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Actress",
+      "Best Supporting Actress",
+      "Best Writing, Screenplay Written Directly for the Screen",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Music, Original Musical or Comedy Score"
+    ],
+    "description": "The world's greatest ever playwright, William Shakespeare, is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0138097/"
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "director": "Peter Weir",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120382/"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski",
+    "ratings": {
+      "imdb": "8.7/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Film Editing",
+      "Best Sound",
+      "Best Effects, Sound Effects Editing",
+      "Best Effects, Visual Effects"
+    ],
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0133093/"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "ratings": {
+      "imdb": "8.8/10",
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0137523/"
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "director": "Sam Mendes",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Written Directly for the Screen",
+      "Best Cinematography"
+    ],
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0169547/"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "director": "M. Night Shyamalan",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "afi_ranking": 89,
+    "imdb_url": "https://www.imdb.com/title/tt0167404/"
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120689/"
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "director": "John Lasseter",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Bullseye, and Stinky Pete.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120363/"
+  },
+  {
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "director": "Spike Jonze",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "John Cusack",
+      "Cameron Diaz",
+      "Catherine Keener"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120601/"
+  }
+]

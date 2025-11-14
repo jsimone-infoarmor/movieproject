@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Juliet Movie Project</title>
+  <style>
+    :root {
+      --bg: #f7fafc;
+      --card: #ffffff;
+      --text: #2d3748;
+      --muted: #718096;
+      --primary: #4a90e2;
+      --primary-dark: #347acc;
+      --border: #e2e8f0;
+      --chip: #edf2f7;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #fbfdff 0%, var(--bg) 100%);
+    }
+
+    header {
+      padding: 28px 20px 10px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0 0 6px;
+      font-size: 28px;
+      letter-spacing: 0.3px;
+    }
+    .subtitle { color: var(--muted); font-size: 14px; }
+
+    .container { max-width: 1140px; margin: 0 auto; padding: 16px; }
+
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 12px;
+      align-items: end;
+    }
+
+    label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+
+    input, select {
+      width: 100%;
+      padding: 10px 12px;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      outline: none;
+      transition: box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+    input:focus, select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(74,144,226,0.15); }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border: 1px solid var(--primary);
+      background: var(--primary);
+      color: white;
+      border-radius: 10px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.15s ease, transform 0.05s ease;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .btn.secondary { background: #fff; color: var(--primary); }
+    .btn:hover { background: var(--primary-dark); }
+    .btn.secondary:hover { background: #f5f9ff; }
+    .btn:active { transform: translateY(1px); }
+    .btn:disabled { opacity: 0.6; cursor: progress; }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 8px;
+    }
+
+    .results {
+      margin-top: 18px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+    table { border-collapse: collapse; width: 100%; min-width: 820px; }
+    th, td { padding: 10px 12px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
+    th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
+    tbody tr:hover { background: #f9fbfd; }
+
+    .row { display: contents; }
+    .kpi {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--chip);
+      font-size: 12px;
+    }
+
+    pre.json { background: #0b1020; color: #d6eaff; padding: 16px; border-radius: 12px; overflow: auto; font-size: 13px; }
+    code.key { color: #8be9fd }
+    code.str { color: #f1fa8c }
+    code.num { color: #bd93f9 }
+    code.bool { color: #50fa7b }
+    code.null { color: #ff79c6 }
+
+    .section-title { font-weight: 700; margin: 6px 2px 2px; font-size: 15px; color: #334155; }
+
+    .note { color: var(--muted); font-size: 12px; }
+
+    .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Juliet Movie Project</h1>
+    <div class="subtitle">A lightweight UI to exercise the MovieController API</div>
+  </header>
+
+  <div class="container">
+    <div class="panel">
+      <div class="section-title">Filters</div>
+      <div class="grid" style="margin-top:8px">
+        <div class="col" style="grid-column: span 4;">
+          <label for="title">Title contains</label>
+          <input id="title" type="text" placeholder="e.g. Star" />
+        </div>
+        <div class="col" style="grid-column: span 3;">
+          <label for="genre">Genre(s) (comma-separated)</label>
+          <input id="genre" type="text" placeholder="e.g. Action, Adventure" />
+        </div>
+        <div class="col" style="grid-column: span 2;">
+          <label for="yearStart">Year start</label>
+          <input id="yearStart" type="number" placeholder="1990" />
+        </div>
+        <div class="col" style="grid-column: span 2;">
+          <label for="yearEnd">Year end</label>
+          <input id="yearEnd" type="number" placeholder="2020" />
+        </div>
+        <div class="col" style="grid-column: span 2;">
+          <label for="minRating">Min IMDb rating</label>
+          <input id="minRating" type="number" step="0.1" min="0" max="10" placeholder="7.5" />
+        </div>
+        <div class="col" style="grid-column: span 3;">
+          <label for="sort">Sort by</label>
+          <input id="sort" type="text" placeholder="title | year | imdb_rating" />
+        </div>
+      </div>
+
+      <div class="section-title" style="margin-top:14px">API Actions</div>
+      <div class="actions">
+        <button class="btn" id="btnAll">All Movies</button>
+        <button class="btn" id="btnSearch">Search</button>
+
+        <button class="btn secondary" id="btnGenre">By Genre (path)</button>
+        <button class="btn secondary" id="btnRatingPath">By Rating (path)</button>
+        <button class="btn secondary" id="btnYear">By Year (path)</button>
+        <button class="btn secondary" id="btnTopN">Top Rating N (path)</button>
+
+        <button class="btn" id="btnDupes">Duplicate Titles (map)</button>
+        <button class="btn" id="btnDupesExists">Duplicates Exist?</button>
+      </div>
+      <div class="note" style="margin-top:6px">Note: Path-based buttons use the corresponding single value from the inputs (e.g., Genre uses the first token).</div>
+    </div>
+
+    <div class="results">
+      <div class="panel">
+        <div class="section-title">Results</div>
+        <div id="kpis" style="margin:8px 0 12px 0; display:flex; gap:8px; flex-wrap:wrap;"></div>
+        <div id="results"></div>
+      </div>
+    </div>
+
+    <div class="footer">Powered by http://localhost:8080/api/movies</div>
+  </div>
+
+  <script>
+    const api = (path, params) => {
+      const base = 'http://localhost:8080';
+      const url = new URL(base + path);
+      if (params) Object.entries(params).forEach(([k, v]) => {
+        if (v !== undefined && v !== null && v !== '') url.searchParams.set(k, v);
+      });
+      return fetch(url, { headers: { 'Accept': 'application/json' } });
+    };
+
+    const el = id => document.getElementById(id);
+
+    function firstToken(csv) {
+      if (!csv) return '';
+      const t = csv.split(',').map(s => s.trim()).filter(Boolean);
+      return t[0] || '';
+    }
+
+    function showLoading(button, loading=true) {
+      if (!button) return;
+      if (loading) {
+        button.dataset.label = button.textContent;
+        button.textContent = 'Loading…';
+        button.disabled = true;
+      } else {
+        button.textContent = button.dataset.label || 'Done';
+        button.disabled = false;
+      }
+    }
+
+    function formatJSON(obj) {
+      // Simple syntax highlighter for JSON
+      const json = JSON.stringify(obj, null, 2)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, match => {
+          let cls = 'num';
+          if (/^"/.test(match)) {
+            cls = /:$/.test(match) ? 'key' : 'str';
+          } else if (/true|false/.test(match)) {
+            cls = 'bool';
+          } else if (/null/.test(match)) {
+            cls = 'null';
+          }
+          return '<code class="' + cls + '">' + match + '</code>';
+        });
+      return `<pre class="json">${json}</pre>`;
+    }
+
+    function renderMovies(movies) {
+      if (!Array.isArray(movies)) return formatJSON(movies);
+      const rows = movies.map(m => `
+        <tr>
+          <td>${escapeHtml(m.title ?? '')}</td>
+          <td>${m.year ?? ''}</td>
+          <td><span class="kpi">${m.imdb_rating ?? ''}</span></td>
+          <td>${Array.isArray(m.genre) ? m.genre.join(', ') : (m.genre ?? '')}</td>
+          <td>${m.imdb_id ?? ''}</td>
+          <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
+        </tr>`).join('');
+      return `
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Year</th>
+                <th>IMDb</th>
+                <th>Genre</th>
+                <th>IMDb ID</th>
+                <th>URL</th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>`;
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+    function escapeAttr(s) { return escapeHtml(s); }
+
+    function setKPIs(listCount, raw) {
+      const k = el('kpis');
+      const parts = [];
+      if (typeof listCount === 'number') parts.push(kpi(`${listCount} item${listCount!==1?'s':''}`));
+      if (raw && typeof raw === 'object' && !Array.isArray(raw)) parts.push(kpi(`${Object.keys(raw).length} keys`));
+      k.innerHTML = parts.join('');
+    }
+    function kpi(text) { return `<span class="kpi">${escapeHtml(text)}</span>`; }
+
+    async function handle(button, fn) {
+      try { showLoading(button, true); await fn(); }
+      catch (e) { el('results').innerHTML = `<div class="panel" style="border-color:#fecaca;background:#fff1f2;color:#7f1d1d">Error: ${escapeHtml(e.message || String(e))}</div>`; }
+      finally { showLoading(button, false); }
+    }
+
+    // Wire buttons
+    el('btnAll').addEventListener('click', () => handle(el('btnAll'), async () => {
+      const r = await api('/api/movies');
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnSearch').addEventListener('click', () => handle(el('btnSearch'), async () => {
+      const params = {
+        q: el('title').value.trim(),
+        sort: el('sort').value.trim() || 'title',
+        genre: el('genre').value.trim() || undefined,
+        minRating: el('minRating').value ? Number(el('minRating').value) : undefined,
+        yearStart: el('yearStart').value ? Number(el('yearStart').value) : undefined,
+        yearEnd: el('yearEnd').value ? Number(el('yearEnd').value) : undefined,
+      };
+      const r = await api('/api/movies/search', params);
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnGenre').addEventListener('click', () => handle(el('btnGenre'), async () => {
+      const genre = firstToken(el('genre').value.trim());
+      if (!genre) throw new Error('Provide at least one genre');
+      const r = await api(`/api/movies/genre/${encodeURIComponent(genre)}`);
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnRatingPath').addEventListener('click', () => handle(el('btnRatingPath'), async () => {
+      const rating = el('minRating').value ? Number(el('minRating').value) : null;
+      if (rating == null || Number.isNaN(rating)) throw new Error('Enter a rating to use for the /rating/{rating} path');
+      const r = await api(`/api/movies/rating/${encodeURIComponent(rating)}`);
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnTopN').addEventListener('click', () => handle(el('btnTopN'), async () => {
+      const n = el('sort').value.trim() && !isNaN(Number(el('sort').value.trim()))
+        ? Number(el('sort').value.trim())
+        : null;
+      const limit = n ?? 10; // use sort field as a quick numeric input if provided, else default 10
+      const r = await api(`/api/movies/toprating/${encodeURIComponent(limit)}`);
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnYear').addEventListener('click', () => handle(el('btnYear'), async () => {
+      const y = el('yearStart').value ? Number(el('yearStart').value) : null;
+      if (y == null || Number.isNaN(y)) throw new Error('Enter a year in the Year start input to use with /year/{year}');
+      const r = await api(`/api/movies/year/${encodeURIComponent(y)}`);
+      const data = await r.json();
+      el('results').innerHTML = renderMovies(data);
+      setKPIs(Array.isArray(data)?data.length:undefined, data);
+    }));
+
+    el('btnDupes').addEventListener('click', () => handle(el('btnDupes'), async () => {
+      const r = await api('/api/movies/duplicates');
+      const data = await r.json();
+      el('results').innerHTML = formatJSON(data);
+      setKPIs(undefined, data);
+    }));
+
+    el('btnDupesExists').addEventListener('click', () => handle(el('btnDupesExists'), async () => {
+      const r = await api('/api/movies/duplicates/exists');
+      const data = await r.json();
+      el('results').innerHTML = formatJSON({ duplicatesExist: data });
+      setKPIs(undefined, { duplicatesExist: data });
+    }));
+
+    // Optional: Load initial data
+    // document.getElementById('btnAll').click();
+  </script>
+</body>
+<html>

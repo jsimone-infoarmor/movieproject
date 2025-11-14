@@ -1,0 +1,1751 @@
+[
+  {
+    "title": "M*A*S*H",
+    "year": 1970,
+    "imdb_rating": 7.4,
+    "genre": ["Comedy", "Drama", "War"],
+    "imdb_id": "tt0066026",
+    "imdb_url": "https://www.imdb.com/title/tt0066026/",
+    "description": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war."
+  },
+  {
+    "title": "Patton",
+    "year": 1970,
+    "imdb_rating": 7.9,
+    "genre": ["Biography", "Drama", "War"],
+    "imdb_id": "tt0066206",
+    "imdb_url": "https://www.imdb.com/title/tt0066206/",
+    "description": "The World War II phase of the career of the controversial American general, George S. Patton."
+  },
+  {
+    "title": "Five Easy Pieces",
+    "year": 1970,
+    "imdb_rating": 7.4,
+    "genre": ["Drama"],
+    "imdb_id": "tt0065724",
+    "imdb_url": "https://www.imdb.com/title/tt0065724/",
+    "description": "A drop-out from a bourgeois family of musicians returns to his family's home to see his dying father."
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "imdb_rating": 8.3,
+    "genre": ["Crime", "Sci-Fi", "Drama"],
+    "imdb_id": "tt0066921",
+    "imdb_url": "https://www.imdb.com/title/tt0066921/",
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+  },
+  {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "imdb_rating": 7.7,
+    "genre": ["Action", "Crime", "Thriller"],
+    "imdb_id": "tt0066999",
+    "imdb_url": "https://www.imdb.com/title/tt0066999/",
+    "description": "When a madman calling himself 'the Scorpio' terrorizes San Francisco, inspector 'Dirty' Harry Callahan is assigned to track down and stop him."
+  },
+  {
+    "title": "The French Connection",
+    "year": 1971,
+    "imdb_rating": 7.7,
+    "genre": ["Action", "Crime", "Thriller"],
+    "imdb_id": "tt0067116",
+    "imdb_url": "https://www.imdb.com/title/tt0067116/",
+    "description": "A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection."
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "imdb_rating": 7.8,
+    "genre": ["Family", "Fantasy", "Musical"],
+    "imdb_id": "tt0067992",
+    "imdb_url": "https://www.imdb.com/title/tt0067992/",
+    "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of a mystical chocolate factory."
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "imdb_rating": 9.2,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0068646",
+    "imdb_url": "https://www.imdb.com/title/tt0068646/",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son."
+  },
+  {
+    "title": "Deliverance",
+    "year": 1972,
+    "imdb_rating": 7.7,
+    "genre": ["Adventure", "Drama", "Thriller"],
+    "imdb_id": "tt0068473",
+    "imdb_url": "https://www.imdb.com/title/tt0068473/",
+    "description": "Intentional killing of a man in self-defense, a canoe trip descends into a nightmare for four urbanites."
+  },
+  {
+    "title": "Last Tango in Paris",
+    "year": 1972,
+    "imdb_rating": 6.9,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0070849",
+    "imdb_url": "https://www.imdb.com/title/tt0070849/",
+    "description": "A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex."
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "imdb_rating": 8.1,
+    "genre": ["Horror"],
+    "imdb_id": "tt0070047",
+    "imdb_url": "https://www.imdb.com/title/tt0070047/",
+    "description": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her."
+  },
+  {
+    "title": "American Graffiti",
+    "year": 1973,
+    "imdb_rating": 7.4,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0069704",
+    "imdb_url": "https://www.imdb.com/title/tt0069704/",
+    "description": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college."
+  },
+  {
+    "title": "Mean Streets",
+    "year": 1973,
+    "imdb_rating": 7.2,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0070379",
+    "imdb_url": "https://www.imdb.com/title/tt0070379/",
+    "description": "A small-time hood aspires to work his way up the ranks of a local mob."
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "imdb_rating": 8.2,
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "imdb_id": "tt0071315",
+    "imdb_url": "https://www.imdb.com/title/tt0071315/",
+    "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder."
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "imdb_rating": 9.0,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0071562",
+    "imdb_url": "https://www.imdb.com/title/tt0071562/",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "imdb_rating": 7.7,
+    "genre": ["Comedy", "Western"],
+    "imdb_id": "tt0071230",
+    "imdb_url": "https://www.imdb.com/title/tt0071230/",
+    "description": "To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary."
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "imdb_rating": 8.1,
+    "genre": ["Adventure", "Thriller"],
+    "imdb_id": "tt0073195",
+    "imdb_url": "https://www.imdb.com/title/tt0073195/",
+    "description": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "imdb_rating": 8.7,
+    "genre": ["Drama"],
+    "imdb_id": "tt0073486",
+    "imdb_url": "https://www.imdb.com/title/tt0073486/",
+    "description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "imdb_rating": 8.0,
+    "genre": ["Biography", "Crime", "Drama"],
+    "imdb_id": "tt0072890",
+    "imdb_url": "https://www.imdb.com/title/tt0072890/",
+    "description": "A man robs a bank to pay for his lover's sex-change operation; it turns into a hostage situation and a media circus."
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "imdb_rating": 8.2,
+    "genre": ["Adventure", "Comedy", "Fantasy"],
+    "imdb_id": "tt0071853",
+    "imdb_url": "https://www.imdb.com/title/tt0071853/",
+    "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles."
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "imdb_rating": 8.1,
+    "genre": ["Drama", "Sport"],
+    "imdb_id": "tt0075148",
+    "imdb_url": "https://www.imdb.com/title/tt0075148/",
+    "description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion."
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "imdb_rating": 8.2,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0075314",
+    "imdb_url": "https://www.imdb.com/title/tt0075314/",
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "imdb_rating": 8.1,
+    "genre": ["Drama"],
+    "imdb_id": "tt0074958",
+    "imdb_url": "https://www.imdb.com/title/tt0074958/",
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit."
+  },
+  {
+    "title": "All the President's Men",
+    "year": 1976,
+    "imdb_rating": 7.9,
+    "genre": ["Biography", "Drama", "History"],
+    "imdb_id": "tt0074119",
+    "imdb_url": "https://www.imdb.com/title/tt0074119/",
+    "description": "Reporters Woodward and Bernstein uncover the details of the Watergate scandal that leads to President Nixon's resignation."
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "imdb_rating": 8.6,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "imdb_id": "tt0076759",
+    "imdb_url": "https://www.imdb.com/title/tt0076759/",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station."
+  },
+  {
+    "title": "Annie Hall",
+    "year": 1977,
+    "imdb_rating": 8.0,
+    "genre": ["Comedy", "Romance"],
+    "imdb_id": "tt0075686",
+    "imdb_url": "https://www.imdb.com/title/tt0075686/",
+    "description": "Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall."
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "imdb_rating": 7.6,
+    "genre": ["Drama", "Sci-Fi"],
+    "imdb_id": "tt0075860",
+    "imdb_url": "https://www.imdb.com/title/tt0075860/",
+    "description": "An electrical lineman has a close encounter with a UFO, which leads to an obsession that affects his life and family."
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "imdb_rating": 8.1,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt0077416",
+    "imdb_url": "https://www.imdb.com/title/tt0077416/",
+    "description": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania."
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "imdb_rating": 7.7,
+    "genre": ["Horror", "Thriller"],
+    "imdb_id": "tt0077651",
+    "imdb_url": "https://www.imdb.com/title/tt0077651/",
+    "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to Haddonfield to kill again."
+  },
+  {
+    "title": "Grease",
+    "year": 1978,
+    "imdb_rating": 7.2,
+    "genre": ["Comedy", "Musical", "Romance"],
+    "imdb_id": "tt0077631",
+    "imdb_url": "https://www.imdb.com/title/tt0077631/",
+    "description": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "imdb_rating": 8.5,
+    "genre": ["Horror", "Sci-Fi"],
+    "imdb_id": "tt0078748",
+    "imdb_url": "https://www.imdb.com/title/tt0078748/",
+    "description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "imdb_rating": 8.4,
+    "genre": ["Drama", "Mystery", "War"],
+    "imdb_id": "tt0078788",
+    "imdb_url": "https://www.imdb.com/title/tt0078788/",
+    "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+  },
+  {
+    "title": "Kramer vs. Kramer",
+    "year": 1979,
+    "imdb_rating": 7.8,
+    "genre": ["Drama"],
+    "imdb_id": "tt0079417",
+    "imdb_url": "https://www.imdb.com/title/tt0079417/",
+    "description": "A just-divorced man must learn to care for his son on his own, and then must fight in court to keep custody of him when his ex-wife resurfaces."
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "imdb_rating": 8.4,
+    "genre": ["Drama", "Horror"],
+    "imdb_id": "tt0081505",
+    "imdb_url": "https://www.imdb.com/title/tt0081505/",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence."
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "imdb_rating": 8.7,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "imdb_id": "tt0080684",
+    "imdb_url": "https://www.imdb.com/title/tt0080684/",
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda."
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "imdb_rating": 8.1,
+    "genre": ["Biography", "Drama", "Sport"],
+    "imdb_id": "tt0081398",
+    "imdb_url": "https://www.imdb.com/title/tt0081398/",
+    "description": "The life of boxer Jake LaMotta, whose psychological and sexual complexities led him to success in the ring and failure in his personal life."
+  },
+  {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "imdb_rating": 8.2,
+    "genre": ["Biography", "Drama"],
+    "imdb_id": "tt0080678",
+    "imdb_url": "https://www.imdb.com/title/tt0080678/",
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak."
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Adventure"],
+    "imdb_id": "tt0082971",
+    "imdb_url": "https://www.imdb.com/title/tt0082971/",
+    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis."
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "imdb_rating": 8.4,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt0082096",
+    "imdb_url": "https://www.imdb.com/title/tt0082096/",
+    "description": "The claustrophobic world of a World War II German U-boat; boredom, filth and sheer terror."
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "imdb_rating": 8.1,
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "imdb_id": "tt0083658",
+    "imdb_url": "https://www.imdb.com/title/tt0083658/",
+    "description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator."
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "imdb_rating": 7.9,
+    "genre": ["Adventure", "Family", "Sci-Fi"],
+    "imdb_id": "tt0083866",
+    "imdb_url": "https://www.imdb.com/title/tt0083866/",
+    "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home planet."
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "imdb_rating": 8.2,
+    "genre": ["Horror", "Mystery", "Sci-Fi"],
+    "imdb_id": "tt0084787",
+    "imdb_url": "https://www.imdb.com/title/tt0084787/",
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "imdb_rating": 8.0,
+    "genre": ["Biography", "Drama", "History"],
+    "imdb_id": "tt0083987",
+    "imdb_url": "https://www.imdb.com/title/tt0083987/",
+    "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest."
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "imdb_rating": 8.3,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0086250",
+    "imdb_url": "https://www.imdb.com/title/tt0086250/",
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed."
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "imdb_rating": 8.3,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "imdb_id": "tt0086190",
+    "imdb_url": "https://www.imdb.com/title/tt0086190/",
+    "description": "After a daring mission to rescue Han Solo, the Rebels dispatch to Endor to destroy the second Death Star."
+  },
+  {
+    "title": "Terms of Endearment",
+    "year": 1983,
+    "imdb_rating": 7.4,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0086425",
+    "imdb_url": "https://www.imdb.com/title/tt0086425/",
+    "description": "Follows the difficult relationship between a mother and her daughter over 30 years."
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "imdb_rating": 8.4,
+    "genre": ["Biography", "Drama", "Music"],
+    "imdb_id": "tt0086879",
+    "imdb_url": "https://www.imdb.com/title/tt0086879/",
+    "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent."
+  },
+  {
+    "title": "Ghostbusters",
+    "year": 1984,
+    "imdb_rating": 7.8,
+    "genre": ["Action", "Comedy", "Fantasy"],
+    "imdb_id": "tt0087332",
+    "imdb_url": "https://www.imdb.com/title/tt0087332/",
+    "description": "Three former parapsychology professors set up shop as a unique ghost removal service."
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "imdb_rating": 8.1,
+    "genre": ["Action", "Sci-Fi"],
+    "imdb_id": "tt0088247",
+    "imdb_url": "https://www.imdb.com/title/tt0088247/",
+    "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year."
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "imdb_rating": 7.9,
+    "genre": ["Comedy", "Music"],
+    "imdb_id": "tt0088258",
+    "imdb_url": "https://www.imdb.com/title/tt0088258/",
+    "description": "A film crew follows the exploits of a legendary British heavy metal band, Spinal Tap, during a fateful American tour."
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "imdb_rating": 8.5,
+    "genre": ["Adventure", "Comedy", "Sci-Fi"],
+    "imdb_id": "tt0088763",
+    "imdb_url": "https://www.imdb.com/title/tt0088763/",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean."
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "imdb_rating": 7.9,
+    "genre": ["Drama", "Sci-Fi"],
+    "imdb_id": "tt0088846",
+    "imdb_url": "https://www.imdb.com/title/tt0088846/",
+    "description": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams."
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "imdb_rating": 7.8,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0088847",
+    "imdb_url": "https://www.imdb.com/title/tt0088847/",
+    "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought."
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985,
+    "imdb_rating": 7.7,
+    "genre": ["Adventure", "Comedy", "Family"],
+    "imdb_id": "tt0089218",
+    "imdb_url": "https://www.imdb.com/title/tt0089218/",
+    "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure."
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt0090605",
+    "imdb_url": "https://www.imdb.com/title/tt0090605/",
+    "description": "Fifty-seven years after surviving an apocalyptic attack, Ripley awakens and agrees to go back to the planet LV-426 with a team of colonial marines."
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "imdb_rating": 7.8,
+    "genre": ["Comedy"],
+    "imdb_id": "tt0091042",
+    "imdb_url": "https://www.imdb.com/title/tt0091042/",
+    "description": "A high school wise guy is determined to have a day off from school, despite what the principal thinks of that."
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "imdb_rating": 8.1,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt0091763",
+    "imdb_url": "https://www.imdb.com/title/tt0091763/",
+    "description": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man."
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "imdb_rating": 6.9,
+    "genre": ["Action", "Drama"],
+    "imdb_id": "tt0092099",
+    "imdb_url": "https://www.imdb.com/title/tt0092099/",
+    "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom."
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "imdb_rating": 8.0,
+    "genre": ["Adventure", "Comedy", "Family"],
+    "imdb_id": "tt0093779",
+    "imdb_url": "https://www.imdb.com/title/tt0093779/",
+    "description": "A boy's grandfather reads him a story about a farmboy-turned-pirate who encounters obstacles in his quest to be reunited with his true love."
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987,
+    "imdb_rating": 7.6,
+    "genre": ["Action", "Crime", "Sci-Fi"],
+    "imdb_id": "tt0093870",
+    "imdb_url": "https://www.imdb.com/title/tt0093870/",
+    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories."
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "imdb_rating": 8.3,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt0093058",
+    "imdb_url": "https://www.imdb.com/title/tt0093058/",
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+  },
+  {
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "imdb_rating": 7.6,
+    "genre": ["Action", "Crime", "Thriller"],
+    "imdb_id": "tt0093409",
+    "imdb_url": "https://www.imdb.com/title/tt0093409/",
+    "description": "Two newly paired cops, one a suicidal nihilist and the other a cautious family man, must put aside their differences to take on a drug-smuggling ring."
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Thriller"],
+    "imdb_id": "tt0095016",
+    "imdb_url": "https://www.imdb.com/title/tt0095016/",
+    "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles."
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "imdb_rating": 8.5,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0095765",
+    "imdb_url": "https://www.imdb.com/title/tt0095765/",
+    "description": "A filmmaker recalls his childhood when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist."
+  },
+  {
+    "title": "Rain Man",
+    "year": 1988,
+    "imdb_rating": 8.0,
+    "genre": ["Drama"],
+    "imdb_id": "tt0095953",
+    "imdb_url": "https://www.imdb.com/title/tt0095953/",
+    "description": "Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country."
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "imdb_rating": 7.7,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt0096438",
+    "imdb_url": "https://www.imdb.com/title/tt0096438/",
+    "description": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder."
+  },
+  {
+    "title": "Batman",
+    "year": 1989,
+    "imdb_rating": 7.5,
+    "genre": ["Action", "Adventure"],
+    "imdb_id": "tt0096895",
+    "imdb_url": "https://www.imdb.com/title/tt0096895/",
+    "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker."
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "imdb_rating": 8.1,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0097165",
+    "imdb_url": "https://www.imdb.com/title/tt0097165/",
+    "description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression."
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Adventure"],
+    "imdb_id": "tt0097576",
+    "imdb_url": "https://www.imdb.com/title/tt0097576/",
+    "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis once again to stop them from obtaining its power."
+  },
+  {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "imdb_rating": 7.9,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0097216",
+    "imdb_url": "https://www.imdb.com/title/tt0097216/",
+    "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence."
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "imdb_rating": 8.7,
+    "genre": ["Biography", "Crime", "Drama"],
+    "imdb_id": "tt0099685",
+    "imdb_url": "https://www.imdb.com/title/tt0099685/",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito."
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "imdb_rating": 8.0,
+    "genre": ["Adventure", "Drama", "Western"],
+    "imdb_id": "tt0099348",
+    "imdb_url": "https://www.imdb.com/title/tt0099348/",
+    "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military."
+  },
+  {
+    "title": "Home Alone",
+    "year": 1990,
+    "imdb_rating": 7.7,
+    "genre": ["Comedy", "Family"],
+    "imdb_id": "tt0099785",
+    "imdb_url": "https://www.imdb.com/title/tt0099785/",
+    "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "imdb_rating": 8.6,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0102926",
+    "imdb_url": "https://www.imdb.com/title/tt0102926/",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer."
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "imdb_rating": 8.6,
+    "genre": ["Action", "Sci-Fi"],
+    "imdb_id": "tt0103064",
+    "imdb_url": "https://www.imdb.com/title/tt0103064/",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg."
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "imdb_rating": 8.0,
+    "genre": ["Animation", "Family", "Fantasy"],
+    "imdb_id": "tt0101414",
+    "imdb_url": "https://www.imdb.com/title/tt0101414/",
+    "description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love."
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "imdb_rating": 8.3,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0105236",
+    "imdb_url": "https://www.imdb.com/title/tt0105236/",
+    "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "imdb_rating": 8.2,
+    "genre": ["Drama", "Western"],
+    "imdb_id": "tt0105695",
+    "imdb_url": "https://www.imdb.com/title/tt0105695/",
+    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, the 'Schofield Kid.'"
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "imdb_rating": 8.0,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt0103639",
+    "imdb_url": "https://www.imdb.com/title/tt0103639/",
+    "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt0107290",
+    "imdb_url": "https://www.imdb.com/title/tt0107290/",
+    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "imdb_rating": 9.0,
+    "genre": ["Biography", "Drama", "History"],
+    "imdb_id": "tt0108052",
+    "imdb_url": "https://www.imdb.com/title/tt0108052/",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "imdb_rating": 8.0,
+    "genre": ["Comedy", "Drama", "Fantasy"],
+    "imdb_id": "tt0107048",
+    "imdb_url": "https://www.imdb.com/title/tt0107048/",
+    "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right."
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "imdb_rating": 8.8,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0109830",
+    "imdb_url": "https://www.imdb.com/title/tt0109830/",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "imdb_rating": 8.5,
+    "genre": ["Animation", "Adventure", "Drama"],
+    "imdb_id": "tt0110357",
+    "imdb_url": "https://www.imdb.com/title/tt0110357/",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "imdb_rating": 8.9,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0110912",
+    "imdb_url": "https://www.imdb.com/title/tt0110912/",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "imdb_rating": 9.3,
+    "genre": ["Drama"],
+    "imdb_id": "tt0111161",
+    "imdb_url": "https://www.imdb.com/title/tt0111161/",
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "imdb_rating": 8.4,
+    "genre": ["Biography", "Drama", "History"],
+    "imdb_id": "tt0112573",
+    "imdb_url": "https://www.imdb.com/title/tt0112573/",
+    "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "imdb_rating": 8.6,
+    "genre": ["Crime", "Drama", "Mystery"],
+    "imdb_id": "tt0114369",
+    "imdb_url": "https://www.imdb.com/title/tt0114369/",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "imdb_rating": 8.3,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt0114709",
+    "imdb_url": "https://www.imdb.com/title/tt0114709/",
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "imdb_rating": 8.3,
+    "genre": ["Action", "Crime", "Drama"],
+    "imdb_id": "tt0113277",
+    "imdb_url": "https://www.imdb.com/title/tt0113277/",
+    "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist."
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "imdb_rating": 8.1,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0116282",
+    "imdb_url": "https://www.imdb.com/title/tt0116282/",
+    "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the very pregnant Marge Gunderson."
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "imdb_rating": 8.1,
+    "genre": ["Drama"],
+    "imdb_id": "tt0117951",
+    "imdb_url": "https://www.imdb.com/title/tt0117951/",
+    "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "imdb_rating": 8.3,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0119217",
+    "imdb_url": "https://www.imdb.com/title/tt0119217/",
+    "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life."
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "imdb_rating": 7.9,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0120338",
+    "imdb_url": "https://www.imdb.com/title/tt0120338/",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "imdb_rating": 8.3,
+    "genre": ["Animation", "Action", "Adventure"],
+    "imdb_id": "tt0119698",
+    "imdb_url": "https://www.imdb.com/title/tt0119698/",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony."
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "imdb_rating": 8.2,
+    "genre": ["Crime", "Drama", "Mystery"],
+    "imdb_id": "tt0119488",
+    "imdb_url": "https://www.imdb.com/title/tt0119488/",
+    "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice."
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "imdb_rating": 8.1,
+    "genre": ["Comedy", "Crime"],
+    "imdb_id": "tt0118715",
+    "imdb_url": "https://www.imdb.com/title/tt0118715/",
+    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help."
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "imdb_rating": 8.6,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt0120815",
+    "imdb_url": "https://www.imdb.com/title/tt0120815/",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "imdb_rating": 8.5,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0120586",
+    "imdb_url": "https://www'imdb.com/title/tt0120586/",
+    "description": "A former neo-Nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "imdb_rating": 8.8,
+    "genre": ["Drama"],
+    "imdb_id": "tt0137523",
+    "imdb_url": "https://www.imdb.com/title/tt0137523/",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more."
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "imdb_rating": 8.7,
+    "genre": ["Action", "Sci-Fi"],
+    "imdb_id": "tt0133093",
+    "imdb_url": "https://www.imdb.com/title/tt0133093/",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "imdb_rating": 8.2,
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "imdb_id": "tt0167404",
+    "imdb_url": "https://www.imdb.com/title/tt0167404/",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist."
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "imdb_rating": 8.3,
+    "genre": ["Drama"],
+    "imdb_id": "tt0169547",
+    "imdb_url": "https://www.imdb.com/title/tt0169547/",
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "imdb_rating": 8.5,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt0172495",
+    "imdb_url": "https://www.imdb.com/title/tt0172495/",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "imdb_rating": 8.4,
+    "genre": ["Mystery", "Thriller"],
+    "imdb_id": "tt0209144",
+    "imdb_url": "https://www.imdb.com/title/tt0209144/",
+    "description": "A man with short-term memory loss attempts to track down his wife's murderer."
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "year": 2000,
+    "imdb_rating": 7.9,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "imdb_id": "tt0190332",
+    "imdb_url": "https://www.imdb.com/title/tt0190332/",
+    "description": "A young Chinese warrior steals a sword from a famous swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation."
+  },
+  {
+    "title": "Almost Famous",
+    "year": 2000,
+    "imdb_rating": 7.9,
+    "genre": ["Adventure", "Comedy", "Drama"],
+    "imdb_id": "tt0181875",
+    "imdb_url": "https://www.imdb.com/title/tt0181875/",
+    "description": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "imdb_rating": 8.8,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt0120737",
+    "imdb_url": "https://www.imdb.com/title/tt0120737/",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "imdb_rating": 8.6,
+    "genre": ["Animation", "Adventure", "Family"],
+    "imdb_id": "tt0245429",
+    "imdb_url": "https://www.imdb.com/title/tt0245429/",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "imdb_rating": 8.3,
+    "genre": ["Comedy", "Romance"],
+    "imdb_id": "tt0211915",
+    "imdb_url": "https://www.imdb.com/title/tt0211915/",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love."
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "imdb_rating": 8.0,
+    "genre": ["Drama", "Mystery", "Sci-Fi"],
+    "imdb_id": "tt0246578",
+    "imdb_url": "https://www.imdb.com/title/tt0246578/",
+    "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes."
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "imdb_rating": 8.8,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt0167261",
+    "imdb_url": "https://www.imdb.com/title/tt0167261/",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "imdb_rating": 8.6,
+    "genre": ["Crime", "Drama"],
+    "imdb_id": "tt0317248",
+    "imdb_url": "https://www.imdb.com/title/tt0317248/",
+    "description": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths: one becomes a photographer, the other a drug dealer."
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002,
+    "imdb_rating": 7.4,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt0145487",
+    "imdb_url": "https://www.imdb.com/title/tt0145487/",
+    "description": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil."
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "imdb_rating": 9.0,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt0167260",
+    "imdb_url": "https://www.imdb.com/title/tt0167260/",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Drama", "Mystery"],
+    "imdb_id": "tt0364569",
+    "imdb_url": "https://www.imdb.com/title/tt0364569/",
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "imdb_rating": 8.2,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt0266543",
+    "imdb_url": "https://wwwediscovery.com/title/tt0266543/",
+    "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
+  },
+  {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "imdb_rating": 7.7,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0335266",
+    "imdb_url": "https://www.imdb.com/title/tt0335266/",
+    "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo."
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "imdb_rating": 8.3,
+    "genre": ["Drama", "Romance", "Sci-Fi"],
+    "imdb_id": "tt0338013",
+    "imdb_url": "https://www.imdb.com/title/tt0338013/",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "imdb_rating": 8.0,
+    "genre": ["Animation", "Action", "Adventure"],
+    "imdb_id": "tt0317705",
+    "imdb_url": "https://www.imdb.com/title/tt0317705/",
+    "description": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world."
+  },
+  {
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "imdb_rating": 7.9,
+    "genre": ["Comedy", "Horror"],
+    "imdb_id": "tt0365748",
+    "imdb_url": "https://www.imdb.com/title/tt0365748/",
+    "description": "A man's uneventful life is disrupted by the zombie apocalypse."
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "imdb_rating": 8.1,
+    "genre": ["Drama", "Sport"],
+    "imdb_id": "tt0405159",
+    "imdb_url": "https://www.imdb.com/title/tt0405159/",
+    "description": "A determined woman works with a hardened boxing trainer to become a professional."
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Crime", "Drama"],
+    "imdb_id": "tt0372784",
+    "imdb_url": "https://www.imdb.com/title/tt0372784/",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption."
+  },
+  {
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "imdb_rating": 7.7,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt0388795",
+    "imdb_url": "https://www.imdb.com/title/tt0388795/",
+    "description": "The story of a forbidden and secret relationship between two cowboys, and their lives over the years."
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "imdb_rating": 8.5,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0407887",
+    "imdb_url": "https://www.imdb.com/title/tt0407887/",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "imdb_rating": 8.2,
+    "genre": ["Drama", "Fantasy", "War"],
+    "imdb_id": "tt0457430",
+    "imdb_url": "https://www.imdb.com/title/tt0457430/",
+    "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
+  },
+  {
+    "title": "Children of Men",
+    "year": 2006,
+    "imdb_rating": 7.9,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "imdb_id": "tt0206634",
+    "imdb_url": "https://www.imdb.com/title/tt0206634/",
+    "description": "In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea."
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "imdb_rating": 8.2,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt0477348",
+    "imdb_url": "https://www.imdb.com/title/tt0477348/",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "imdb_rating": 8.2,
+    "genre": ["Drama"],
+    "imdb_id": "tt0469494",
+    "imdb_url": "https://www.imdb.com/title/tt0469494/",
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+  },
+  {
+    "title": "Juno",
+    "year": 2007,
+    "imdb_rating": 7.5,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt0467406",
+    "imdb_url": "https://www.imdb.com/title/tt0467406/",
+    "description": "Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child."
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "imdb_rating": 9.0,
+    "genre": ["Action", "Crime", "Drama"],
+    "imdb_id": "tt0468569",
+    "imdb_url": "https://www.imdb.com/title/tt0468569/",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "title": "WALL·E",
+    "year": 2008,
+    "imdb_rating": 8.4,
+    "genre": ["Animation", "Adventure", "Family"],
+    "imdb_id": "tt0910970",
+    "imdb_url": "https://www.imdb.com/title/tt0910970/",
+    "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "imdb_rating": 8.0,
+    "genre": ["Crime", "Drama", "Romance"],
+    "imdb_id": "tt1010048",
+    "imdb_url": "https://www.imdb.com/title/tt1010048/",
+    "description": "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of 'Who Wants to be a Millionaire?'."
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "imdb_rating": 8.3,
+    "genre": ["Adventure", "Drama", "War"],
+    "imdb_id": "tt0361748",
+    "imdb_url": "https://www.imdb.com/title/tt0361748/",
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "imdb_rating": 8.3,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt1049413",
+    "imdb_url": "https://www.imdb.com/title/tt1049413/",
+    "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway."
+  },
+  {
+    "title": "District 9",
+    "year": 2009,
+    "imdb_rating": 7.9,
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "imdb_id": "tt1136608",
+    "imdb_url": "https://www.imdb.com/title/tt1136608/",
+    "description": "An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology."
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "imdb_rating": 8.8,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt1375666",
+    "imdb_url": "https://www.imdb.com/title/tt1375666/",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "imdb_rating": 7.8,
+    "genre": ["Biography", "Drama"],
+    "imdb_id": "tt1285016",
+    "imdb_url": "https://www.imdb.com/title/tt1285016/",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by two brothers who claimed he stole their idea."
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010,
+    "imdb_rating": 8.3,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt0435761",
+    "imdb_url": "https://www.imdb.com/title/tt0435761/",
+    "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned."
+  },
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "imdb_rating": 8.5,
+    "genre": ["Biography", "Comedy", "Drama"],
+    "imdb_id": "tt1675434",
+    "imdb_url": "https://www.imdb.com/title/tt1675434/",
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+  },
+  {
+    "title": "Drive",
+    "year": 2011,
+    "imdb_rating": 7.8,
+    "genre": ["Action", "Drama"],
+    "imdb_id": "tt0780504",
+    "imdb_url": "https://www.imdb.com/title/tt0780504/",
+    "description": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor."
+  },
+  {
+    "title": "The Help",
+    "year": 2011,
+    "imdb_rating": 8.1,
+    "genre": ["Drama"],
+    "imdb_id": "tt1454029",
+    "imdb_url": "https://www.imdb.com/title/tt1454029/",
+    "description": "An aspiring author during the 1960s Civil Rights movement decides to write a book detailing the African American maids' point of view on the white families for which they work."
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "imdb_rating": 8.4,
+    "genre": ["Drama", "Western"],
+    "imdb_id": "tt1853728",
+    "imdb_url": "https://www.imdb.com/title/tt1853728/",
+    "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "imdb_rating": 8.0,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt0848228",
+    "imdb_url": "https://www.imdb.com/title/tt0848228/",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Drama"],
+    "imdb_id": "tt1345836",
+    "imdb_url": "https://wwwimdb.com/title/tt1345836/",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "imdb_rating": 8.2,
+    "genre": ["Biography", "Comedy", "Crime"],
+    "imdb_id": "tt0993846",
+    "imdb_url": "https://www.imdb.com/title/tt0993846/",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "imdb_rating": 8.1,
+    "genre": ["Crime", "Drama", "Mystery"],
+    "imdb_id": "tt1392214",
+    "imdb_url": "https://www.imdb.com/title/tt1392214/",
+    "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts."
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "imdb_rating": 8.0,
+    "genre": ["Drama", "Romance", "Sci-Fi"],
+    "imdb_id": "tt1798709",
+    "imdb_url": "https://www.imdb.com/title/tt1798709/",
+    "description": "In a near future, a lonely writer develops an unlikely relationship with an advanced operating system designed to meet his every need."
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "imdb_rating": 8.7,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "imdb_id": "tt0816692",
+    "imdb_url": "https://www.imdb.com/title/tt0816692/",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "imdb_rating": 8.5,
+    "genre": ["Drama", "Music"],
+    "imdb_id": "tt2582802",
+    "imdb_url": "https://www.imdb.com/title/tt2582802/",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "imdb_rating": 8.0,
+    "genre": ["Action", "Adventure", "Comedy"],
+    "imdb_id": "tt2015381",
+    "imdb_url": "https://www.imdb.com/title/tt2015381/",
+    "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "imdb_rating": 8.1,
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "imdb_id": "tt2267998",
+    "imdb_url": "https://www.imdb.com/title/tt2267998/",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "imdb_rating": 8.1,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt1392190",
+    "imdb_url": "https://www.imdb.com/title/tt1392190/",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the help of a group of female prisoners and a drifter named Max."
+  },
+  {
+    "title": "The Martian",
+    "year": 2015,
+    "imdb_rating": 8.0,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "imdb_id": "tt3659388",
+    "imdb_url": "https://www.imdb.com/title/tt3659388/",
+    "description": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive."
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "imdb_rating": 8.1,
+    "genre": ["Biography", "Crime", "Drama"],
+    "imdb_id": "tt1895587",
+    "imdb_url": "https://www.imdb.com/title/tt1895587/",
+    "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "imdb_rating": 7.9,
+    "genre": ["Drama", "Mystery", "Sci-Fi"],
+    "imdb_id": "tt2543164",
+    "imdb_url": "https://www.imdb.com/title/tt2543164/",
+    "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world."
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "imdb_rating": 8.0,
+    "genre": ["Comedy", "Drama", "Music"],
+    "imdb_id": "tt3783958",
+    "imdb_url": "https://www.imdb.com/title/tt3783958/",
+    "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "imdb_rating": 7.4,
+    "genre": ["Drama"],
+    "imdb_id": "tt4975722",
+    "imdb_url": "https://www.imdb.com/title/tt4975722/",
+    "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "imdb_rating": 8.0,
+    "genre": ["Action", "Drama", "Mystery"],
+    "imdb_id": "tt1856101",
+    "imdb_url": "https://www.imdb.com/title/tt1856101/",
+    "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "imdb_rating": 7.8,
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "imdb_id": "tt5052448",
+    "imdb_url": "https://www.imdb.com/title/tt5052448/",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "imdb_rating": 8.1,
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "imdb_id": "tt3315342",
+    "imdb_url": "https://www.imdb.com/title/tt3315342/",
+    "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when a mutant child comes to him for help, he must get her to safety."
+  },
+  {
+    "title": "The Shape of Water",
+    "year": 2017,
+    "imdb_rating": 7.3,
+    "genre": ["Drama", "Fantasy", "Romance"],
+    "imdb_id": "tt5580390",
+    "imdb_url": "https://www.imdb.com/title/tt5580390/",
+    "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "imdb_id": "tt4154756",
+    "imdb_url": "https://www.imdb.com/title/tt4154756/",
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "imdb_rating": 8.4,
+    "genre": ["Animation", "Action", "Adventure"],
+    "imdb_id": "tt4633694",
+    "imdb_url": "https://www.imdb.com/title/tt4633694/",
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "imdb_rating": 7.5,
+    "genre": ["Drama", "Horror", "Sci-Fi"],
+    "imdb_id": "tt6644200",
+    "imdb_url": "https://www.imdb.com/title/tt6644200/",
+    "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "imdb_rating": 8.5,
+    "genre": ["Drama", "Thriller"],
+    "imdb_id": "tt6751668",
+    "imdb_url": "https://www.imdb.com/title/tt6751668/",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "imdb_rating": 8.4,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "imdb_id": "tt7286456",
+    "imdb_url": "https://www.imdb.com/title/tt7286456/",
+    "description": "A mentally troubled comedian embarks on a downward spiral of social revolution and bloody crime in the decaying city of Gotham."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "imdb_rating": 8.4,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt4154796",
+    "imdb_url": "https://wwwimdb.com/title/tt4154796/",
+    "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers take one final stand against Thanos."
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "imdb_rating": 8.2,
+    "genre": ["Drama", "War"],
+    "imdb_id": "tt8579674",
+    "imdb_url": "https://www.imdb.com/title/tt8579674/",
+    "description": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking into a deadly trap."
+  },
+  {
+    "title": "Soul",
+    "year": 2020,
+    "imdb_rating": 8.0,
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "imdb_id": "tt2948372",
+    "imdb_url": "https://www.imdb.com/title/tt2948372/",
+    "description": "A musician who has lost his passion for music is transported out of his body and must find his way back with the help of an infant soul learning about herself."
+  },
+  {
+    "title": "Another Round",
+    "year": 2020,
+    "imdb_rating": 7.7,
+    "genre": ["Comedy", "Drama"],
+    "imdb_id": "tt10288566",
+    "imdb_url": "https://www.imdb.com/title/tt10288566/",
+    "description": "Four high school teachers consume alcohol on a daily basis to see how it affects their social and professional lives."
+  },
+  {
+    "title": "Nomadland",
+    "year": 2020,
+    "imdb_rating": 7.3,
+    "genre": ["Drama"],
+    "imdb_id": "tt9770150",
+    "imdb_url": "https://www.imdb.com/title/tt9770150/",
+    "description": "A woman in her sixties, after losing everything in the Great Recession, embarks on a journey through the American West, living as a van-dwelling modern-day nomad."
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "imdb_rating": 8.0,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt1160419",
+    "imdb_url": "https://www.imdb.com/title/tt1160419/",
+    "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
+  },
+  {
+    "title": "CODA",
+    "year": 2021,
+    "imdb_rating": 8.0,
+    "genre": ["Comedy", "Drama", "Music"],
+    "imdb_id": "tt10366460",
+    "imdb_url": "https://www.imdb.com/title/tt10366460/",
+    "description": "As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents."
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "imdb_id": "tt10872600",
+    "imdb_url": "https://www.imdb.com/title/tt10872600/",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "imdb_rating": 7.8,
+    "genre": ["Action", "Adventure", "Comedy"],
+    "imdb_id": "tt6710474",
+    "imdb_url": "https://www.imdb.com/title/tt6710474/",
+    "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what is important to her by connecting with the lives she could have led in other universes."
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "imdb_rating": 7.8,
+    "genre": ["Action", "Crime", "Drama"],
+    "imdb_id": "tt1877830",
+    "imdb_url": "https://www.imdb.com/title/tt1877830/",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "imdb_rating": 8.2,
+    "genre": ["Action", "Drama"],
+    "imdb_id": "tt1745960",
+    "imdb_url": "https://www.imdb.com/title/tt1745960/",
+    "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "year": 2022,
+    "imdb_rating": 7.8,
+    "genre": ["Action", "Drama", "War"],
+    "imdb_id": "tt1016150",
+    "imdb_url": "https://www.imdb.com/title/tt1016150/",
+    "description": "A young German soldier's terrifying experiences and distress on the western front during World War I."
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "imdb_rating": 8.4,
+    "genre": ["Biography", "Drama", "History"],
+    "imdb_id": "tt15398776",
+    "imdb_url": "https://www.imdb.com/title/tt15398776/",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb."
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "imdb_rating": 8.6,
+    "genre": ["Animation", "Action", "Adventure"],
+    "imdb_id": "tt9362722",
+    "imdb_url": "https://www.imdb.com/title/tt9362722/",
+    "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence."
+  },
+  {
+    "title": "Barbie",
+    "year": 2023,
+    "imdb_rating": 6.8,
+    "genre": ["Adventure", "Comedy", "Fantasy"],
+    "imdb_id": "tt1517268",
+    "imdb_url": "https://www.imdb.com/title/tt1517268/",
+    "description": "Barbie suffers a crisis that leads her to question her world and her existence."
+  },
+  {
+    "title": "Past Lives",
+    "year": 2023,
+    "imdb_rating": 7.9,
+    "genre": ["Drama", "Romance"],
+    "imdb_id": "tt13238346",
+    "imdb_url": "https://www.imdb.com/title/tt13238346/",
+    "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week."
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "imdb_rating": 7.6,
+    "genre": ["Crime", "Drama", "History"],
+    "imdb_id": "tt5537002",
+    "imdb_url": "https://www.imdb.com/title/tt5537002/",
+    "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one until the FBI steps in to unravel the mystery."
+  },
+  {
+    "title": "Poor Things",
+    "year": 2023,
+    "imdb_rating": 8.0,
+    "genre": ["Comedy", "Drama", "Romance"],
+    "imdb_id": "tt14230458",
+    "imdb_url": "https://www.imdb.com/title/tt14230458/",
+    "description": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter."
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "imdb_rating": 8.7,
+    "genre": ["Action", "Adventure", "Drama"],
+    "imdb_id": "tt15239678",
+    "imdb_url": "https://www.imdb.com/title/tt15239678/",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family."
+  },
+  {
+    "title": "Civil War",
+    "year": 2024,
+    "imdb_rating": 7.5,
+    "genre": ["Action", "Thriller"],
+    "imdb_id": "tt17279496",
+    "imdb_url": "https://www.imdb.com/title/tt17279496/",
+    "description": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House."
+  },
+  {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "year": 1925,
+    "imdb_rating": 7.7,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdb_id": "tt0015600",
+    "imdb_url": "https://www.imdb.com/title/tt0015600/",
+    "description": "A Jewish prince is enslaved by a Roman friend in this monumental silent epic. He survives years of slavery to fight for his freedom, seek vengeance, and is a witness to the life of Jesus Christ."
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 1959,
+    "imdb_rating": 8.1,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdb_id": "tt0052618",
+    "imdb_url": "https://www.imdb.com/title/tt0052618/",
+    "description": "When a Jewish prince is betrayed and sent into slavery by a Roman childhood friend, he regains his freedom and returns to challenge his betrayer in a legendary chariot race and find redemption."
+  },
+  {
+    "title": "Ben Hur",
+    "year": 2003,
+    "imdb_rating": 6.1,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "imdb_id": "tt0273877",
+    "imdb_url": "https://www.imdb.com/title/tt0273877/",
+    "description": "An animated, direct-to-video adaptation of the classic story, where a Jewish prince seeks to reclaim his life after being betrayed. Notably, Charlton Heston (star of the 1959 film) returns to voice the title character."
+  },
+  {
+    "title": "Ben Hur",
+    "year": 2010,
+    "imdb_rating": 6.1,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Miniseries"
+    ],
+    "imdb_id": "tt1417369",
+    "imdb_url": "https://www.imdb.com/title/tt1417369/",
+    "description": "A two-part television miniseries that retells the epic story of Judah Ben-Hur, a prince who is enslaved by the Romans and his subsequent quest for vengeance and spiritual redemption."
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 2016,
+    "imdb_rating": 5.7,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdb_id": "tt2638144",
+    "imdb_url": "https://www.imdb.com/title/tt2638144/",
+    "description": "The epic story of Judah Ben-Hur, a prince falsely accused of treason by his adopted brother, an officer in the Roman army. Stripped of his title and forced into slavery, Judah returns to take his revenge."
+  }
+]

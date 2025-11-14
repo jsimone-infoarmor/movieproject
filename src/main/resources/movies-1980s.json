@@ -1,0 +1,1232 @@
+[
+  {
+    "title": "The Empire Strikes Back",
+    "year": 1980,
+    "director": "Irvin Kershner",
+    "ratings": {
+      "imdb": "8.7/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Sound",
+      "Special Achievement Award"
+    ],
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080684/"
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Film Editing"
+    ],
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "afi_ranking": 4,
+    "imdb_url": "https://www.imdb.com/title/tt0081398/"
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081505/"
+  },
+  {
+    "title": "Airplane!",
+    "year": 1980,
+    "director": "Jim Abrahams",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      "Robert Hays",
+      "Julie Hagerty",
+      "Leslie Nielsen"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man afraid to fly must ensure that a plane lands safely after the pilots become sick with food poisoning.",
+    "afi_ranking": 10,
+    "imdb_url": "https://www.imdb.com/title/tt0080339/"
+  },
+  {
+    "title": "Ordinary People",
+    "year": 1980,
+    "director": "Robert Redford",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Donald Sutherland",
+      "Mary Tyler Moore",
+      "Judd Hirsch"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "The accidental death of the older of two sons causes a family to fall apart, and the surviving son to fall into a deep depression.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081283/"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Effects, Visual Effects",
+      "Special Achievement Award"
+    ],
+    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "afi_ranking": 66,
+    "imdb_url": "https://www.imdb.com/title/tt0082971/"
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "director": "Wolfgang Petersen",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer",
+      "Klaus Wennemann"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082096/"
+  },
+  {
+    "title": "Chariots of Fire",
+    "year": 1981,
+    "director": "Hugh Hudson",
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Ben Cross",
+      "Ian Charleson",
+      "Nicholas Farrell"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Screenplay Written Directly for the Screen",
+      "Best Costume Design",
+      "Best Music, Original Score"
+    ],
+    "description": "Two British track athletes, one a determined Jew, and the other a devout Christian, compete in the 1924 Olympics.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082158/"
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+    "afi_ranking": 97,
+    "imdb_url": "https://www.imdb.com/title/tt0083658/"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Peter Coyote"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Sound Effects Editing",
+      "Best Visual Effects",
+      "Best Music, Original Score"
+    ],
+    "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home planet.",
+    "afi_ranking": 24,
+    "imdb_url": "https://www.imdb.com/title/tt0083866/"
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "director": "Richard Attenborough",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Ben Kingsley",
+      "John Gielgud",
+      "Rohini Hattangadi"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Written Directly for the Screen",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Film Editing"
+    ],
+    "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083987/"
+  },
+  {
+    "title": "Tootsie",
+    "year": 1982,
+    "director": "Sydney Pollack",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Dustin Hoffman",
+      "Jessica Lange",
+      "Teri Garr"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "Michael Dorsey, a talented but difficult actor, struggles to find work until one desperate audition lands him the role of a lifetime.",
+    "afi_ranking": 69,
+    "imdb_url": "https://www.imdb.com/title/tt0084805/"
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "director": "John Carpenter",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084787/"
+  },
+  {
+    "title": "Fanny and Alexander",
+    "year": 1982,
+    "director": "Ingmar Bergman",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Bertil Guve",
+      "Pernilla Allwin",
+      "Kristina Adolphson"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Foreign Language Film",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design"
+    ],
+    "description": "Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083922/"
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "director": "Richard Marquand",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Special Achievement Award"
+    ],
+    "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0086190/"
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0086250/"
+  },
+  {
+    "title": "Terms of Endearment",
+    "year": 1983,
+    "director": "James L. Brooks",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Shirley MacLaine",
+      "Debra Winger",
+      "Jack Nicholson"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actress",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "Follows a mother and daughter who clash over pretty much everything.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0086425/"
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "director": "Milos Forman",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Makeup"
+    ],
+    "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+    "afi_ranking": 53,
+    "imdb_url": "https://www.imdb.com/title/tt0086879/"
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "director": "James Cameron",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0088247/"
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "director": "Rob Reiner",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "actors": [
+      "Rob Reiner",
+      "Michael McKean",
+      "Christopher Guest"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0088258/"
+  },
+  {
+    "title": "Ghostbusters",
+    "year": 1984,
+    "director": "Ivan Reitman",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      "Bill Murray",
+      "Dan Aykroyd",
+      "Sigourney Weaver"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+    "afi_ranking": 28,
+    "imdb_url": "https://www.imdb.com/title/tt0087332/"
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "director": "Robert Zemeckis",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "afi_ranking": 10,
+    "imdb_url": "https://www.imdb.com/title/tt0088763/"
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "director": "Terry Gilliam",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Jonathan Pryce",
+      "Kim Greist",
+      "Robert De Niro"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0088846/"
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "director": "John Hughes",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0088847/"
+  },
+  {
+    "title": "Out of Africa",
+    "year": 1985,
+    "director": "Sydney Pollack",
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Meryl Streep",
+      "Robert Redford",
+      "Klaus Maria Brandauer"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Sound",
+      "Best Music, Original Score"
+    ],
+    "description": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0089755/"
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "director": "Oliver Stone",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "afi_ranking": 86,
+    "imdb_url": "https://www.imdb.com/title/tt0091763/"
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "director": "James Cameron",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Effects, Sound Effects Editing",
+      "Best Effects, Visual Effects"
+    ],
+    "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090605/"
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "director": "John Hughes",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091042/"
+  },
+  {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "director": "David Lynch",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Isabella Rossellini",
+      "Kyle MacLachlan",
+      "Dennis Hopper"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090756/"
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "director": "Tony Scott",
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Tim Robbins",
+      "Kelly McGillis"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092099/"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "director": "Stanley Kubrick",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093058/"
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "director": "Rob Reiner",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Cary Elwes",
+      "Mandy Patinkin",
+      "Robin Wright"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093779/"
+  },
+  {
+    "title": "The Last Emperor",
+    "year": 1987,
+    "director": "Bernardo Bertolucci",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "John Lone",
+      "Joan Chen",
+      "Peter O'Toole"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 9,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Score"
+    ],
+    "description": "The story of the final Emperor of China.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093389/"
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987,
+    "director": "Paul Verhoeven",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Peter Weller",
+      "Nancy Allen",
+      "Dan O'Herlihy"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Special Achievement Award"
+    ],
+    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093870/"
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "director": "John McTiernan",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095016/"
+  },
+  {
+    "title": "Rain Man",
+    "year": 1988,
+    "director": "Barry Levinson",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Dustin Hoffman",
+      "Tom Cruise",
+      "Valeria Golino"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Original Screenplay"
+    ],
+    "description": "Selfish yuppie Charlie Babbitt's father leaves a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095953/"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "director": "Isao Takahata",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095327/"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "director": "Giuseppe Tornatore",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A filmmaker recalls his childhood when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095765/"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "director": "Peter Weir",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Original Screenplay"
+    ],
+    "description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of passion and individuality.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0097165/"
+  },
+  {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "director": "Spike Lee",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Danny Aiello",
+      "Ossie Davis",
+      "Ruby Dee"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+    "afi_ranking": 96,
+    "imdb_url": "https://www.imdb.com/title/tt0097216/"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Alison Doody"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry 'Indiana' Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0097576/"
+  },
+  {
+    "title": "Driving Miss Daisy",
+    "year": 1989,
+    "director": "Bruce Beresford",
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Morgan Freeman",
+      "Jessica Tandy",
+      "Dan Aykroyd"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Actress",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Makeup"
+    ],
+    "description": "An old Jewish woman and her African-American chauffeur in the American South have a relationship that grows and improves over the years.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0097239/"
+  },
+  {
+    "title": "Glory",
+    "year": 1989,
+    "director": "Edward Zwick",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Cary Elwes"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Cinematography",
+      "Best Sound"
+    ],
+    "description": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union army and the Confederates.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0097441/"
+  },
+  {
+    "title": "Batman",
+    "year": 1989,
+    "director": "Tim Burton",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Kim Basinger"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration"
+    ],
+    "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096895/"
+  }
+]

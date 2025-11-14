@@ -1,0 +1,56 @@
+.vscode/
+.gradle
+/build/*
+build/
+/bin/
+.DS_Store
+!gradle/wrapper/gradle-wrapper.jar
+charts/values.local.yml.tmp
+/docker-compose/zk-single-kafka-single/
+/target/
+/output/
+/helmchart/envsecrets.env
+/extra-values.yaml
+/extra-values-secrets.yaml
+/local/values.yaml.tmp
+/local/docker-compose/zk-single-kafka-single/
+
+### Spring Shell logging ###
+demo.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+out
+venv
+
+karate-config-credentials-local.yml
+karate-config-credentials-dev.yml
+karate-config-credentials-qa.yml
+karate-config-credentials-pre.yml
+karate-config-credentials-uat.yml
+karate-config-credentials-pls.yml
+karate-config-credentials-prod.yml
+karate-config-prod.yml
+
+kafka.server.truststore.jks
+
+application-jira.yml
+application-xray.yml

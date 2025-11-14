@@ -1,0 +1,1322 @@
+[
+  {
+    "title": "All Quiet on the Western Front",
+    "year": 1930,
+    "director": "Lewis Milestone",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Louis Wolheim",
+      "Lew Ayres",
+      "John Wray"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director"
+    ],
+    "description": "A German youth eagerly enters World War I, but his enthusiasm wanes as he faces the realities of war.",
+    "afi_ranking": 54,
+    "imdb_url": "https://www.imdb.com/title/tt0020629/"
+  },
+  {
+    "title": "The Blue Angel",
+    "year": 1930,
+    "director": "Josef von Sternberg",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Emil Jannings",
+      "Marlene Dietrich",
+      "Kurt Gerron"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An esteemed professor's life descends into chaos after he falls in love with a cabaret singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020697/"
+  },
+  {
+    "title": "City Lights",
+    "year": 1931,
+    "director": "Charles Chaplin",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Virginia Cherrill",
+      "Florence Lee"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "With the help of a wealthy drunk, a tramp falls in love with a blind flower girl.",
+    "afi_ranking": 11,
+    "imdb_url": "https://www.imdb.com/title/tt0021749/"
+  },
+  {
+    "title": "Dracula",
+    "year": 1931,
+    "director": "Tod Browning",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      "Bela Lugosi",
+      "Helen Chandler",
+      "David Manners"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The ancient vampire Count Dracula arrives in England and begins to prey on the virtuous young Mina.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021814/"
+  },
+  {
+    "title": "Frankenstein",
+    "year": 1931,
+    "director": "James Whale",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Colin Clive",
+      "Mae Clarke",
+      "Boris Karloff"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An obsessed scientist assembles a living being from parts of exhumed corpses.",
+    "afi_ranking": 87,
+    "imdb_url": "https://www.imdb.com/title/tt0021884/"
+  },
+  {
+    "title": "The Public Enemy",
+    "year": 1931,
+    "director": "William A. Wellman",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "James Cagney",
+      "Jean Harlow",
+      "Edward Woods"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man's rise through the ranks of the criminal underworld in Prohibition-era Chicago.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022286/"
+  },
+  {
+    "title": "M",
+    "year": 1931,
+    "director": "Fritz Lang",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022100/"
+  },
+  {
+    "title": "Grand Hotel",
+    "year": 1932,
+    "director": "Edmund Goulding",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Greta Garbo",
+      "John Barrymore",
+      "Joan Crawford"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Picture"
+    ],
+    "description": "A group of very different individuals staying at a luxurious hotel in Berlin deal with each of their respective dramas.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022958/"
+  },
+  {
+    "title": "Scarface",
+    "year": 1932,
+    "director": "Howard Hawks",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Muni",
+      "Ann Dvorak",
+      "Karen Morley"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ambitious and ruthless gangster rises to the top of the Chicago underworld.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023427/"
+  },
+  {
+    "title": "I Am a Fugitive from a Chain Gang",
+    "year": 1932,
+    "director": "Mervyn LeRoy",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Paul Muni",
+      "Glenda Farrell",
+      "Helen Vinson"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A World War I veteran is wrongly convicted of a crime and sentenced to a brutal Southern chain gang, from which he escapes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023042/"
+  },
+  {
+    "title": "Shanghai Express",
+    "year": 1932,
+    "director": "Josef von Sternberg",
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Marlene Dietrich",
+      "Clive Brook",
+      "Anna May Wong"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "The passengers on a train traveling through revolutionary China are taken hostage by a warlord.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023458/"
+  },
+  {
+    "title": "King Kong",
+    "year": 1933,
+    "director": "Merian C. Cooper",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Fay Wray",
+      "Robert Armstrong",
+      "Bruce Cabot"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female star.",
+    "afi_ranking": 47,
+    "imdb_url": "https://www.imdb.com/title/tt0024216/"
+  },
+  {
+    "title": "Duck Soup",
+    "year": 1933,
+    "director": "Leo McCarey",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "War"
+    ],
+    "actors": [
+      "Groucho Marx",
+      "Harpo Marx",
+      "Chico Marx"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+    "afi_ranking": 60,
+    "imdb_url": "https://www.imdb.com/title/tt0023969/"
+  },
+  {
+    "title": "The Invisible Man",
+    "year": 1933,
+    "director": "James Whale",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Claude Rains",
+      "Gloria Stuart",
+      "William Harrigan"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A scientist finds a way of becoming invisible, but in doing so, he becomes murderously insane.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024184/"
+  },
+  {
+    "title": "42nd Street",
+    "year": 1933,
+    "director": "Lloyd Bacon",
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Warner Baxter",
+      "Bebe Daniels",
+      "George Brent"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Broadway director's new show is in jeopardy when its star breaks her ankle, but a young chorus girl steps in to save the day.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024034/"
+  },
+  {
+    "title": "It Happened One Night",
+    "year": 1934,
+    "director": "Frank Capra",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Claudette Colbert",
+      "Walter Connolly"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Actress",
+      "Best Writing, Adaptation"
+    ],
+    "description": "A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.",
+    "afi_ranking": 35,
+    "imdb_url": "https://www.imdb.com/title/tt0025316/"
+  },
+  {
+    "title": "The Thin Man",
+    "year": 1934,
+    "director": "W.S. Van Dyke",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "actors": [
+      "William Powell",
+      "Myrna Loy",
+      "Maureen O'Sullivan"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former detective and his wealthy, adventurous wife take on a case.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025878/"
+  },
+  {
+    "title": "L'Atalante",
+    "year": 1934,
+    "director": "Jean Vigo",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Jean Dasté",
+      "Dita Parlo",
+      "Michel Simon"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A newly married couple's blissful life on a canal barge is disrupted by the husband's jealousy and the wife's desire for the glamour of Paris.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024844/"
+  },
+  {
+    "title": "Bride of Frankenstein",
+    "year": 1935,
+    "director": "James Whale",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Boris Karloff",
+      "Elsa Lanchester",
+      "Colin Clive"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Dr. Frankenstein is forced to create a new creature, a female, to be a companion to the monster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0026138/"
+  },
+  {
+    "title": "The 39 Steps",
+    "year": 1935,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Robert Donat",
+      "Madeleine Carroll",
+      "Lucie Mannheim"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man in London tries to help a counter-espionage agent. But when the agent is killed and he stands accused, he must go on the run to save himself and stop a spy ring.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0026029/"
+  },
+  {
+    "title": "A Night at the Opera",
+    "year": 1935,
+    "director": "Sam Wood",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      "Groucho Marx",
+      "Chico Marx",
+      "Harpo Marx"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+    "afi_ranking": 85,
+    "imdb_url": "https://www.imdb.com/title/tt0026778/"
+  },
+  {
+    "title": "Top Hat",
+    "year": 1935,
+    "director": "Mark Sandrich",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Edward Everett Horton"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American dancer comes to Britain and falls for a model whom he initially annoyed, but she mistakes him for his goofy producer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027125/"
+  },
+  {
+    "title": "Mutiny on the Bounty",
+    "year": 1935,
+    "director": "Frank Lloyd",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Charles Laughton",
+      "Clark Gable",
+      "Franchot Tone"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Picture"
+    ],
+    "description": "First mate Fletcher Christian leads a revolt against his sadistic commander, Captain Bligh, in this classic seafaring adventure.",
+    "afi_ranking": 86,
+    "imdb_url": "https://www.imdb.com/title/tt0026752/"
+  },
+  {
+    "title": "The Informer",
+    "year": 1935,
+    "director": "John Ford",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Victor McLaglen",
+      "Heather Angel",
+      "Preston Foster"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay",
+      "Best Music, Score"
+    ],
+    "description": "In 1920s Dublin, an IRA man informs on his friend and is ostracized for it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0026529/"
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "director": "Charles Chaplin",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "afi_ranking": 78,
+    "imdb_url": "https://www.imdb.com/title/tt0027977/"
+  },
+  {
+    "title": "My Man Godfrey",
+    "year": 1936,
+    "director": "Gregory La Cava",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "William Powell",
+      "Carole Lombard",
+      "Alice Brady"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A socialite hires a 'forgotten man' as the family butler, only to fall in love with him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028010/"
+  },
+  {
+    "title": "Swing Time",
+    "year": 1936,
+    "director": "George Stevens",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Victor Moore"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "A gambler and dancer tries to raise the money to marry his fiancée but is distracted by a beautiful dance instructor.",
+    "afi_ranking": 90,
+    "imdb_url": "https://www.imdb.com/title/tt0028333/"
+  },
+  {
+    "title": "Mr. Deeds Goes to Town",
+    "year": 1936,
+    "director": "Frank Capra",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Gary Cooper",
+      "Jean Arthur",
+      "George Bancroft"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Director"
+    ],
+    "description": "A simple, small-town man inherits a massive fortune and is suddenly surrounded by people who want to take advantage of him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027996/"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "director": "William Cottrell",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Adriana Caselotti",
+      "Harry Stockwell",
+      "Lucille La Verne"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Honorary Award"
+    ],
+    "description": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners.",
+    "afi_ranking": 34,
+    "imdb_url": "https://www.imdb.com/title/tt0029583/"
+  },
+  {
+    "title": "Captains Courageous",
+    "year": 1937,
+    "director": "Victor Fleming",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      "Spencer Tracy",
+      "Freddie Bartholomew",
+      "Lionel Barrymore"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "A spoiled brat who falls overboard from a steamship is rescued by a Portuguese fisherman, who teaches him the ways of the sea.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028691/"
+  },
+  {
+    "title": "The Awful Truth",
+    "year": 1937,
+    "director": "Leo McCarey",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Irene Dunne",
+      "Cary Grant",
+      "Ralph Bellamy"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Director"
+    ],
+    "description": "A married couple who suspect each other of infidelity file for divorce, but find it hard to let go.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028597/"
+  },
+  {
+    "title": "Grand Illusion",
+    "year": 1937,
+    "director": "Jean Renoir",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Jean Gabin",
+      "Dita Parlo",
+      "Pierre Fresnay"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During WWI, two French soldiers are captured and imprisoned in a German POW camp. Several escape attempts follow.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028950/"
+  },
+  {
+    "title": "A Star Is Born",
+    "year": 1937,
+    "director": "William A. Wellman",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Janet Gaynor",
+      "Fredric March",
+      "Adolphe Menjou"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Writing, Original Story",
+      "Honorary Award"
+    ],
+    "description": "A young woman comes to Hollywood with dreams of stardom, but finds her career is mentoring by an aging actor whose own career is in decline.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029606/"
+  },
+  {
+    "title": "Bringing Up Baby",
+    "year": 1938,
+    "director": "Howard Hawks",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      "Katharine Hepburn",
+      "Cary Grant",
+      "Charles Ruggles"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A straight-laced paleontologist's world is turned upside down by a free-spirited heiress and her pet leopard, Baby.",
+    "afi_ranking": 88,
+    "imdb_url": "https://www.imdb.com/title/tt0029947/"
+  },
+  {
+    "title": "The Adventures of Robin Hood",
+    "year": 1938,
+    "director": "Michael Curtiz",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "actors": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Art Direction",
+      "Best Film Editing",
+      "Best Music, Original Score"
+    ],
+    "description": "When Prince John and the Norman Lords begin oppressing the Saxon masses, a Saxon lord fights back as the outlaw leader of a rebel band.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029843/"
+  },
+  {
+    "title": "You Can't Take It with You",
+    "year": 1938,
+    "director": "Frank Capra",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Jean Arthur",
+      "Lionel Barrymore",
+      "James Stewart"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director"
+    ],
+    "description": "A man from a family of rich snobs becomes engaged to a woman from a good-natured but eccentric family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0030993/"
+  },
+  {
+    "title": "Angels with Dirty Faces",
+    "year": 1938,
+    "director": "Michael Curtiz",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "James Cagney",
+      "Pat O'Brien",
+      "The Dead End Kids"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A priest tries to stop a gangster from corrupting a group of street kids.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029870/"
+  },
+  {
+    "title": "The Lady Vanishes",
+    "year": 1938,
+    "director": "Alfred Hitchcock",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Margaret Lockwood",
+      "Michael Redgrave",
+      "Paul Lukas"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "While traveling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0030341/"
+  },
+  {
+    "title": "Jezebel",
+    "year": 1938,
+    "director": "William Wyler",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Bette Davis",
+      "Henry Fonda",
+      "George Brent"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Supporting Actress"
+    ],
+    "description": "In 1850s New Orleans, a headstrong Southern belle's scandalous behavior costs her the man she loves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0030287/"
+  },
+  {
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "director": "Victor Fleming",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Vivien Leigh",
+      "Thomas Mitchell"
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 10,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actress",
+      "Best Supporting Actress",
+      "Best Writing, Screenplay",
+      "Best Cinematography, Color",
+      "Best Art Direction",
+      "Best Film Editing",
+      "Honorary Award",
+      "Technical Achievement Award"
+    ],
+    "description": "A manipulative Southern belle carries on a turbulent affair with a blockade runner during the American Civil War.",
+    "afi_ranking": 4,
+    "imdb_url": "https://www.imdb.com/title/tt0031381/"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "director": "Victor Fleming",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Judy Garland",
+      "Frank Morgan",
+      "Ray Bolger"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Music, Original Score",
+      "Best Music, Original Song",
+      "Honorary Juvenile Award"
+    ],
+    "description": "A young Kansas girl is whisked away by a tornado to the magical land of Oz, where she embarks on a journey to find the Wizard.",
+    "afi_ranking": 6,
+    "imdb_url": "https://www.imdb.com/title/tt0032138/"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "director": "Frank Capra",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Original Story"
+    ],
+    "description": "A naive man is appointed to the United States Senate, where he discovers corruption and fights to expose it.",
+    "afi_ranking": 26,
+    "imdb_url": "https://www.imdb.com/title/tt0031679/"
+  },
+  {
+    "title": "Stagecoach",
+    "year": 1939,
+    "director": "John Ford",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "actors": [
+      "John Wayne",
+      "Claire Trevor",
+      "Andy Devine"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Music, Scoring"
+    ],
+    "description": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+    "afi_ranking": 63,
+    "imdb_url": "https://www.imdb.com/title/tt0031971/"
+  },
+  {
+    "title": "Ninotchka",
+    "year": 1939,
+    "director": "Ernst Lubitsch",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Greta Garbo",
+      "Melvyn Douglas",
+      "Ina Claire"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stern Soviet envoy's allegiance is tested when she is sent to Paris to retrieve some wayward agents and falls for a charming aristocrat.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031725/"
+  },
+  {
+    "title": "Wuthering Heights",
+    "year": 1939,
+    "director": "William Wyler",
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Merle Oberon",
+      "Laurence Olivier",
+      "David Niven"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography, Black-and-White"
+    ],
+    "description": "A servant in the house of Wuthering Heights tells a traveler the story of the stormy romance between Catherine Earnshaw and the gypsy Heathcliff.",
+    "afi_ranking": 73,
+    "imdb_url": "https://www.imdb.com/title/tt0032145/"
+  },
+  {
+    "title": "The Rules of the Game",
+    "year": 1939,
+    "director": "Jean Renoir",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Nora Gregor",
+      "Paulette Dubost",
+      "Mila Parély"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bourgeois life in France at the onset of World War II, as played out by a group of friends upon a weekend hunting party at a country estate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031885/"
+  },
+  {
+    "title": "Goodbye, Mr. Chips",
+    "year": 1939,
+    "director": "Sam Wood",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Robert Donat",
+      "Greer Garson",
+      "Terry Kilburn"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "An aged, retired schoolmaster looks back on his career and his personal life over the decades.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031385/"
+  },
+  {
+    "title": "Gunga Din",
+    "year": 1939,
+    "director": "George Stevens",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "actors": [
+      "Cary Grant",
+      "Victor McLaglen",
+      "Douglas Fairbanks Jr."
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 19th-century India, three British soldiers and a native water bearer fight against a murderous cult.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031398/"
+  },
+  {
+    "title": "Only Angels Have Wings",
+    "year": 1939,
+    "director": "Howard Hawks",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Cary Grant",
+      "Jean Arthur",
+      "Rita Hayworth"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of pilots in a remote South American port risk their lives to fly mail and cargo over the Andes Mountains.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031762/"
+  }
+]

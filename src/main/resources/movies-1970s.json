@@ -1,0 +1,1060 @@
+[
+  {
+    "title": "Patton",
+    "year": 1970,
+    "director": "Franklin J. Schaffner",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "George C. Scott",
+      "Karl Malden",
+      "Stephen Young"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "Best Art Direction-Set Decoration",
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "The World War II phase of the career of the controversial American general, George S. Patton.",
+    "afi_ranking": 89,
+    "imdb_url": "https://www.imdb.com/title/tt0066206/"
+  },
+  {
+    "title": "M*A*S*H",
+    "year": 1970,
+    "director": "Robert Altman",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Donald Sutherland",
+      "Elliott Gould",
+      "Tom Skerritt"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+    "afi_ranking": 54,
+    "imdb_url": "https://www.imdb.com/title/tt0066026/"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Malcolm McDowell",
+      "Patric Magee",
+      "Michael Bates"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "afi_ranking": 70,
+    "imdb_url": "https://www.imdb.com/title/tt0066921/"
+  },
+  {
+    "title": "The French Connection",
+    "year": 1971,
+    "director": "William Friedkin",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Gene Hackman",
+      "Roy Scheider",
+      "Fernando Rey"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Film Editing"
+    ],
+    "description": "A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.",
+    "afi_ranking": 70,
+    "imdb_url": "https://www.imdb.com/title/tt0067116/"
+  },
+  {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "director": "Don Siegel",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Andrew Robinson",
+      "Harry Guardino"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a madman calling himself 'the Scorpio Killer' menaces the city, tough as nails San Francisco Police Inspector 'Dirty' Harry Callahan is assigned to track down and stop him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0066999/"
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "director": "Mel Stuart",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "actors": [
+      "Gene Wilder",
+      "Jack Albertson",
+      "Peter Ostrum"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of a wondrous, mysterious chocolate factory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0067992/"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "ratings": {
+      "imdb": "9.2/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "98%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "afi_ranking": 2,
+    "imdb_url": "https://www.imdb.com/title/tt0068646/"
+  },
+  {
+    "title": "Cabaret",
+    "year": 1972,
+    "director": "Bob Fosse",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      "Liza Minnelli",
+      "Michael York",
+      "Helmut Griem"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Director",
+      "Best Actress",
+      "Best Supporting Actor",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Scoring Original Song Score and/or Adaptation"
+    ],
+    "description": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.",
+    "afi_ranking": 63,
+    "imdb_url": "https://www.imdb.com/title/tt0068327/"
+  },
+  {
+    "title": "Deliverance",
+    "year": 1972,
+    "director": "John Boorman",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Jon Voight",
+      "Burt Reynolds",
+      "Ned Beatty"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Intentional killing of a person who is not a threat, in a situation that is not self-defense.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0068473/"
+  },
+  {
+    "title": "The Sting",
+    "year": 1973,
+    "director": "George Roy Hill",
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Film Editing",
+      "Best Music, Scoring: Original Song Score and Adaptation or Scoring: Adaptation"
+    ],
+    "description": "Two grifters team up to pull off the ultimate con.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070735/"
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "director": "William Friedkin",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Sound"
+    ],
+    "description": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070047/"
+  },
+  {
+    "title": "American Graffiti",
+    "year": 1973,
+    "director": "George Lucas",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Richard Dreyfuss",
+      "Ron Howard",
+      "Paul Le Mat"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.",
+    "afi_ranking": 62,
+    "imdb_url": "https://www.imdb.com/title/tt0069704/"
+  },
+  {
+    "title": "Serpico",
+    "year": 1973,
+    "director": "Sidney Lumet",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "John Randolph",
+      "Jack Kehoe"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An honest New York cop blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070666/"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "ratings": {
+      "imdb": "9.0/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 6,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Adapted from Other Material",
+      "Best Art Direction-Set Decoration",
+      "Best Music, Original Dramatic Score"
+    ],
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "afi_ranking": 32,
+    "imdb_url": "https://www.imdb.com/title/tt0071562/"
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Original Screenplay"
+    ],
+    "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+    "afi_ranking": 21,
+    "imdb_url": "https://www.imdb.com/title/tt0071315/"
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "director": "Mel Brooks",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "actors": [
+      "Cleavon Little",
+      "Gene Wilder",
+      "Slim Pickens"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.",
+    "afi_ranking": 6,
+    "imdb_url": "https://www.imdb.com/title/tt0071230/"
+  },
+  {
+    "title": "The Conversation",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "Gene Hackman",
+      "John Cazale",
+      "Allen Garfield"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that a couple he is spying on will be murdered.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071360/"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "director": "Milos Forman",
+    "ratings": {
+      "imdb": "8.7/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Actress",
+      "Best Writing, Screenplay Adapted From Other Material"
+    ],
+    "description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+    "afi_ranking": 33,
+    "imdb_url": "https://www.imdb.com/title/tt0073486/"
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Dramatic Score"
+    ],
+    "description": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "afi_ranking": 56,
+    "imdb_url": "https://www.imdb.com/title/tt0073195/"
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "director": "Sidney Lumet",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "John Cazale",
+      "Penelope Allen"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Original Screenplay"
+    ],
+    "description": "A man robs a bank to pay for his lover's sex-change operation; it turns into a hostage situation and a media circus.",
+    "afi_ranking": 70,
+    "imdb_url": "https://www.imdb.com/title/tt0072890/"
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "director": "Stanley Kubrick",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Music, Scoring: Original Song Score and Adaptation or Scoring: Adaptation"
+    ],
+    "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072684/"
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "afi_ranking": 52,
+    "imdb_url": "https://www.imdb.com/title/tt0075314/"
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "director": "John G. Avildsen",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Film Editing"
+    ],
+    "description": "A small-time boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "afi_ranking": 57,
+    "imdb_url": "https://www.imdb.com/title/tt0075148/"
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "director": "Sidney Lumet",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Actress",
+      "Best Actress in a Supporting Role",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+    "afi_ranking": 64,
+    "imdb_url": "https://www.imdb.com/title/tt0074958/"
+  },
+  {
+    "title": "All the President's Men",
+    "year": 1976,
+    "director": "Alan J. Pakula",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Dustin Hoffman",
+      "Robert Redford",
+      "Jack Warden"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Art Direction-Set Decoration",
+      "Best Sound"
+    ],
+    "description": "\"The Washington Post\" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.",
+    "afi_ranking": 77,
+    "imdb_url": "https://www.imdb.com/title/tt0074119/"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "director": "George Lucas",
+    "ratings": {
+      "imdb": "8.6/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Effects, Visual Effects",
+      "Best Music, Original Score",
+      "Special Achievement Award"
+    ],
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "afi_ranking": 13,
+    "imdb_url": "https://www.imdb.com/title/tt0076759/"
+  },
+  {
+    "title": "Annie Hall",
+    "year": 1977,
+    "director": "Woody Allen",
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Tony Roberts"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actress",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+    "afi_ranking": 35,
+    "imdb_url": "https://www.imdb.com/title/tt0075686/"
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "director": "Steven Spielberg",
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Richard Dreyfuss",
+      "François Truffaut",
+      "Teri Garr"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Special Achievement Award"
+    ],
+    "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO.",
+    "afi_ranking": 64,
+    "imdb_url": "https://www.imdb.com/title/tt0075860/"
+  },
+  {
+    "title": "Saturday Night Fever",
+    "year": 1977,
+    "director": "John Badham",
+    "ratings": {
+      "imdb": "6.8/10",
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "John Travolta",
+      "Karen Lynn Gorney",
+      "Barry Miller"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ambitious, streetwise kid from the Brooklyn projects looks for a way out of his dead-end life as a disco king.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076666/"
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "director": "Michael Cimino",
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Supporting Actor",
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+    "afi_ranking": 53,
+    "imdb_url": "https://www.imdb.com/title/tt0077416/"
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "director": "John Carpenter",
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Nancy Kyes"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077651/"
+  },
+  {
+    "title": "Superman",
+    "year": 1978,
+    "director": "Richard Donner",
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Christopher Reeve",
+      "Margot Kidder",
+      "Gene Hackman"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Special Achievement Award"
+    ],
+    "description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078346/"
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "ratings": {
+      "imdb": "8.4/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Sound"
+    ],
+    "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "afi_ranking": 30,
+    "imdb_url": "https://www.imdb.com/title/tt0078788/"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Visual Effects"
+    ],
+    "description": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+    "afi_ranking": 7,
+    "imdb_url": "https://www.imdb.com/title/tt0078748/"
+  },
+  {
+    "title": "Kramer vs. Kramer",
+    "year": 1979,
+    "director": "Robert Benton",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Dustin Hoffman",
+      "Meryl Streep",
+      "Jane Alexander"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Actress in a Supporting Role",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "A just-divorced man must learn to care for his son on his own, and then must fight in court to keep custody of him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0079417/"
+  },
+  {
+    "title": "Manhattan",
+    "year": 1979,
+    "director": "Woody Allen",
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Woody Allen",
+      "Diane Keaton",
+      "Mariel Hemingway"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+    "afi_ranking": 63,
+    "imdb_url": "https://www.imdb.com/title/tt0079522/"
+  },
+  {
+    "title": "All That Jazz",
+    "year": 1979,
+    "director": "Bob Fosse",
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "actors": [
+      "Roy Scheider",
+      "Jessica Lange",
+      "Ann Reinking"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Film Editing",
+      "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score"
+    ],
+    "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078754/"
+  }
+]
