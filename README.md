@@ -1,8 +1,4 @@
-# Juliett Team Room Movie Project
-
-## Team
-
-Mark Juszczec, Joseph Simone, Jamon Horton, Sebastian Vasco, and Earl Bingham
+# Movie Project
 
 Business Need:
 --------------
